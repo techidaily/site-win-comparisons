@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Review: Enhance Your Surface Duo 2 with Durable Pen Cover & Wireless Charging Features - Insights From ZDNet"
-date: 2024-09-17 18:12:49
-updated: 2024-09-20 10:49:18
+date: 2024-09-20T16:40:09.654Z
+updated: 2024-09-23T17:17:56.940Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/xploring-mobile-youtube-usage-on-different-oses-for-2024/"><u>[New] Exploring Mobile YouTube Usage on Different OSes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/converter-gratuito-online-cambia-archivos-m4a-a-flac-con-rapidez-movavi/"><u>Converter Gratuito Online: Cambia Archivos M4A a FLAC Con Rapidez - Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-techniques-for-capturing-macos-content/"><u>Efficient Techniques for Capturing macOS Content</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/facil-transferencia-m2p-ao-inves-da-imprensa-ferramenta-gratuita-do-movavi/"><u>Fácil Transferência M2P Ao Invés Da Imprensa - Ferramenta Gratuita Do Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/free-webp-to-png-conversion-quick-and-easy-with-movavi/"><u>Free Webp-to-PNG Conversion - Quick & Easy with Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-para-la-conversion-gratuita-de-videos-de-wma-a-mov-mediante-herramientas-web-accesibles-hoy/"><u>Guía Para La Conversión Gratuita De Vídeos De WMA a MOV Mediante Herramientas Web Accesibles Hoy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-complete-online-video-editor-tips-tricks-and-techniques/"><u>New 2024 Approved The Complete Online Video Editor Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quintessential-audio-drama-story-creation/"><u>Quintessential Audio-Drama Story Creation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-save-youtube-content-for-offline-viewing-on-mobile-phones-and-tablets/"><u>Step-by-Step Tutorial: Save YouTube Content for Offline Viewing on Mobile Phones and Tablets</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Create Your Personalized Copilot GPT: A Step-by-Step Guide"
-date: 2024-09-19 10:21:43
-updated: 2024-09-20 11:34:43
+date: 2024-09-18T17:13:50.587Z
+updated: 2024-09-23T16:45:14.467Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +199,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-game-record-on-windows-10-top-5-tips/"><u>[New] In 2024, Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-why-does-your-fb-message-feed-show-a-blue-image-decoding-its-purpose-for-2024/"><u>[New] Why Does Your FB Message Feed Show a Blue Image? Decoding Its Purpose for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>[Updated] 2024 Approved Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-choices-essential-support-gear-for-your-gopro-camera/"><u>2024 Approved Best Choices Essential Support Gear for Your GoPro Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/"><u>2024 Approved Inspirational Movies for Momentum and Self-Belief</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/conexao-jpeg-para-bmp-online-gratuito-ferramenta-de-conversao-da-movavi/"><u>Conexão JPEG Para BMP Online Gratuito - Ferramenta De Conversão Da Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fortnite-playlist-of-the-year-2024-enhancing-your-fps/"><u>Fortnite Playlist of the Year 2024: Enhancing Your FPS!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/gora-movavis-fraktpolisen-och-aterbaringspolitiken-en-lattlasbar-uppsat/"><u>Göra Movavis Fraktpolisen Och Återbäringspolitiken en Lättläsbar Uppsåt</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-paso-a-paso-para-conversion-gratuita-de-archivos-ogv-a-mp4-usando-movavi-una-solucion-eficaz-hoy-en-dia/"><u>Guía Paso a Paso Para Conversión Gratuita De Archivos OGV a MP4 Usando Movavi: Una Solución Eficaz Hoy en Día</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/simple-guide-to-converting-rmvb-files-into-mp4-format-on-windows-and-mac/"><u>Simple Guide to Converting RMVB Files Into MP4 Format on Windows and Mac</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1726226702014-webmkv-movavi/"><u>オンラインで簡単！無料WEBムービーファイルのMKVへの変換 - Movavi</u></a></li>
+</ul></div>
+

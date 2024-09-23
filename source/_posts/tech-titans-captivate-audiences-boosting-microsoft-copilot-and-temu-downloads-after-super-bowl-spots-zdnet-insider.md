@@ -1,7 +1,7 @@
 ---
 title: Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider
-date: 2024-09-17 19:21:53
-updated: 2024-09-20 12:23:39
+date: 2024-09-21T17:20:10.747Z
+updated: 2024-09-23T17:09:03.024Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-comprehensive-list-of-excellent-fb-cover-photo-creators/"><u>[New] In 2024, A Comprehensive List of Excellent FB Cover Photo Creators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-channeling-success-navigating-the-new-youtube-membership-model/"><u>[Updated] 2024 Approved Channeling Success Navigating the New YouTube Membership Model</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-convert-your-social-media-presence-into-a-sustainable-business-model-for-2024/"><u>[Updated] How to Convert Your Social Media Presence Into a Sustainable Business Model for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-windows-11-with-top-tips/"><u>[Updated] In 2024, Mastering Windows 11 with Top Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-discovering-the-quintessential-25-influence-kings-and-queens/"><u>2024 Approved Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-prime-collage-app-selection-overview/"><u>Android's Prime Collage App Selection Overview</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/conexao-jpeg-para-bmp-online-gratuito-ferramenta-de-conversao-da-movavi/"><u>Conexão JPEG Para BMP Online Gratuito - Ferramenta De Conversão Da Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-paso-a-paso-para-conversion-gratuita-de-archivos-ogv-a-mp4-usando-movavi-una-solucion-eficaz-hoy-en-dia/"><u>Guía Paso a Paso Para Conversión Gratuita De Archivos OGV a MP4 Usando Movavi: Una Solución Eficaz Hoy en Día</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 14</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/simple-guide-to-converting-rmvb-files-into-mp4-format-on-windows-and-mac/"><u>Simple Guide to Converting RMVB Files Into MP4 Format on Windows and Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-like-a-dragon-ultimate-guide-to-mastering-the-game-on-pc/"><u>Yakuza: Like a Dragon – Ultimate Guide to Mastering the Game on PC</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1726226702014-webmkv-movavi/"><u>オンラインで簡単！無料WEBムービーファイルのMKVへの変換 - Movavi</u></a></li>
+</ul></div>
+

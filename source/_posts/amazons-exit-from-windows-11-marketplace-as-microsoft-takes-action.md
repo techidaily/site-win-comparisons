@@ -1,7 +1,7 @@
 ---
 title: Amazon's Exit From Windows 11 Marketplace as Microsoft Takes Action
-date: 2024-09-18 18:17:35
-updated: 2024-09-20 10:39:44
+date: 2024-09-19T16:42:41.393Z
+updated: 2024-09-23T17:41:58.608Z
 tags:
   - windows
 categories:
@@ -74,11 +74,34 @@ How long will it be before Windows 11 23H2 is no longer supported? That depends 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-captivating-asmr-scenes-techniques-for-successful-recording-for-2024/"><u>[New] Crafting Captivating ASMR Scenes Techniques for Successful Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-prolific-performance-our-picks-for-top-8-workflow-planners/"><u>[New] Prolific Performance Our Picks for Top 8 Workflow Planners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-srt-conversion-made-simple-3-actionable-solutions/"><u>2024 Approved SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/all-in-one-screen-capture-tools-the-ultimate-guide/"><u>All-in-One Screen Capture Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/conversion-en-ligne-pour-convertir-les-fichiers-er-3gpp-en-gif-sans-frais-services-de-movavi/"><u>Conversion en Ligne Pour Convertir Les Fichiers Er 3GPP en GIF Sans Frais - Services De Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/descubra-como-transformar-videos-ts-em-flv-gratuitamente-on-line-usando-o-movavi-passo-a-passo-e-facil-de-seguir/"><u>Descubra Como Transformar Vídeos TS Em FLV Gratuitamente On-Line Usando O Movavi - Passo a Passo E Fácil De Seguir</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovering-name-for-opengl-enabled-intel-icd/"><u>Discovering Name for OpenGL-Enabled Intel ICD</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-rapida-para-cambiar-videos-wmv-a-avi-sin-costo-usando-el-servicio-en-linea-de-movavi/"><u>Guía Rápida Para Cambiar Videos WMV a AVI Sin Costo Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-12-pro-max-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 12 Pro Max or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-the-bangers-resolving-no-audio-problems-in-fallout-4-for-windows/"><u>Restoring the Bangers: Resolving No Audio Problems in Fallout 4 for Windows</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-oppo-find-x7-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mov-aiff-movavi/"><u>무료 MOV 앤 AIFF 교체 스크린샷 - Movavi 용인</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

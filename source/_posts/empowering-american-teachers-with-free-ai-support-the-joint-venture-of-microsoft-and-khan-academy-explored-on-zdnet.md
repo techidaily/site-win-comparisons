@@ -1,7 +1,7 @@
 ---
 title: "Empowering American Teachers with Free AI Support: The Joint Venture of Microsoft & Khan Academy Explored on ZDNet"
-date: 2024-09-17 20:30:49
-updated: 2024-09-20 12:39:33
+date: 2024-09-19T16:51:43.078Z
+updated: 2024-09-23T17:07:06.588Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-save-instagram-videos-on-desktop-devices/"><u>[New] 2024 Approved Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vidma-scratch-assessing-the-screen-capture-tool/"><u>[New] In 2024, Vidma Scratch Assessing the Screen Capture Tool</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unveil-the-power-of-facetime-direct-messages-and-calls-on-snapchat/"><u>[Updated] Unveil the Power of FaceTime Direct Messages and Calls on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-your-images-to-ultra-hd-transforming-photos-to-4k-8k-and-beyond-using-winxvideos-artificial-intelligence/"><u>Boost Your Images to Ultra HD: Transforming Photos to 4K, 8K & Beyond Using WinxVideo's Artificial Intelligence</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/conversion-en-ligne-pour-convertir-les-fichiers-er-3gpp-en-gif-sans-frais-services-de-movavi/"><u>Conversion en Ligne Pour Convertir Les Fichiers Er 3GPP en GIF Sans Frais - Services De Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-chat-vs-linkedin-connect-group-benefits-evaluated/"><u>Facebook Chat Vs. LinkedIn Connect: Group Benefits Evaluated</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-rapida-para-cambiar-videos-wmv-a-avi-sin-costo-usando-el-servicio-en-linea-de-movavi/"><u>Guía Rápida Para Cambiar Videos WMV a AVI Sin Costo Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/m4vwebmmovavi/"><u>M4V到WEBM自由線上改版：以Movavi轉換器進行電影文件修改</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/os-melhores-softwares-de-screenshotting-para-telas-compactas-avaliados-por-expertos/"><u>Os Melhores Softwares De Screenshotting Para Telas Compactas, Avaliados Por Expertos</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/scopri-le-tecniche-migliori-per-ridimensionare-i-tuoi-video-con-velocita/"><u>Scopri Le Tecniche Migliori per Ridimensionare I Tuoi Video Con Velocità!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-economic-blueprint-for-music-video-filming/"><u>The Economic Blueprint for Music Video Filming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-15-conversores-de-video-mais-usados-para-mac-livre/"><u>Top 15 Conversores De Vídeo Mais Usados Para Mac Livre</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transcode-un-fichier-webm-vers-flv-gratuitement-en-ligne-convertisseur-video-rapide/"><u>Transcode Un Fichier WEBM Vers FLV Gratuitement en Ligne - Convertisseur Vidéo Rapide</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transformacion-gratuita-de-tta-a-flac-online-sin-esfuerzo-con-movavi/"><u>Transformación Gratuita De TTA a FLAC Online Sin Esfuerzo Con Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-gaming-headset-g435-silent-issue-a-step-by-step-guide/"><u>Troubleshooting the Gaming Headset G435 Silent Issue – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success-for-2024/"><u>Youtube to Animated GIFs Conversion Guide Online Tutorial for Success for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mov-aiff-movavi/"><u>무료 MOV 앤 AIFF 교체 스크린샷 - Movavi 용인</u></a></li>
+</ul></div>
+

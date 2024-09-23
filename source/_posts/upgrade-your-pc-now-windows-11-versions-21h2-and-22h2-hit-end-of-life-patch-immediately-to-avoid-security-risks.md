@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks
-date: 2024-09-18 21:37:52
-updated: 2024-09-20 10:59:13
+date: 2024-09-18T17:38:26.478Z
+updated: 2024-09-23T17:08:28.058Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,6 +142,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-recovering-stopped-fb-livestreams/"><u>[Updated] 2024 Approved Guide to Recovering Stopped FB Livestreams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-maximize-game-time-top-10-ps5-external-hddssd-for-2024/"><u>[Updated] Maximize Game Time Top 10 PS5 External HDD/SSD for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-your-digital-past-with-fbs-preview-feature/"><u>2024 Approved Navigating Your Digital Past with FB's Preview Feature</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/movavi-m4amp3wav/"><u>免費在線取得Movavi M4A編解碼器，便利MP3/WAV改善 - 全球最佳媒體服務</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/converte-i-file-m4a-in-formato-mov-gratuitamente-on-line-con-convertitore-di-movavi/"><u>Converte I File M4A in Formato MOV Gratuitamente On-Line Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/experience-the-virtual-reality-frontier-on-youtube/"><u>Experience the Virtual Reality Frontier on Youtube</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-tirer-et-retourner-des-images-a-laide-de-movavi/"><u>Guide Facile Pour Tirer Et Retourner Des Images À L'aide De Movavi</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-backup-and-organize-your-footage-in-minutes/"><u>In 2024, Backup and Organize Your Footage in Minutes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>In 2024, Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-a79-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A79 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-cut-technique-making-your-vlog-more-engaging-for-2024/"><u>Quick-Cut Technique Making Your Vlog More Engaging for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/tecnicas-facilmente-rentables-para-comprimir-videos-en-formato-avi-con-la-herramienta-de-compresion-de-movavi/"><u>Técnicas Fácilmente Rentables Para Comprimir Vídeos en Formato AVI Con La Herramienta De Compresión De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-free-sms-applications-for-iphone-and-ipod-touch/"><u>Top Free SMS Applications for iPhone and iPod Touch</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-vergoed-vrije-foto-samenvoegen-software-best-gereedschap-voor-online-and-desktops/"><u>Top Vergoed Vrije Foto Samenvoegen Software: Best Gereedschap Voor Online & Desktops</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-y-gratuita-de-video-f4v-a-flash-swf-con-movavi-online/"><u>Transformación Libre Y Gratuita De Video F4V a Flash (SWF) Con Movavi Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
+</ul></div>
+

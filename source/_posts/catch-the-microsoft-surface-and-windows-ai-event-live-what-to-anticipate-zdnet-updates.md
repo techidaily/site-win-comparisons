@@ -1,7 +1,7 @@
 ---
 title: Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates
-date: 2024-09-17 20:30:12
-updated: 2024-09-20 10:10:17
+date: 2024-09-20T17:31:23.479Z
+updated: 2024-09-23T16:07:59.081Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>[New] In 2024, Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-15-best-photovideo-downloader-tools-for-instagram/"><u>2024 Approved 15 Best Photo/Video Downloader Tools for Instagram</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/movavi-m4amp3wav/"><u>免費在線取得Movavi M4A編解碼器，便利MP3/WAV改善 - 全球最佳媒體服務</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/best-playback-software-for-vob-format-video-streaming-on-pc-and-mac-comprehensive-guide-to-movavi-converter/"><u>Best Playback Software for VOB Format Video Streaming on PC and Mac - Comprehensive Guide to Movavi Converter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/brightening-your-story-with-instagram-highlights-3-methods-for-2024/"><u>Brightening Your Story with Instagram Highlights (3 Methods) for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/converte-i-file-m4a-in-formato-mov-gratuitamente-on-line-con-convertitore-di-movavi/"><u>Converte I File M4A in Formato MOV Gratuitamente On-Line Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/converting-your-clips-into-perfect-instagram-stories/"><u>Converting Your Clips Into Perfect Instagram Stories</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/descargar-e-importar-vob-a-mkv-sin-problemas-guia-completa-de-convertidor-online-libre/"><u>Descargar E Importar VOB a MKV Sin Problemas: Guía Completa De Convertidor Online Libre</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-tirer-et-retourner-des-images-a-laide-de-movavi/"><u>Guide Facile Pour Tirer Et Retourner Des Images À L'aide De Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-90-gt-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 90 GT Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-y-gratuita-de-video-f4v-a-flash-swf-con-movavi-online/"><u>Transformación Libre Y Gratuita De Video F4V a Flash (SWF) Con Movavi Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transforming-language-education-through-mondlys-ar-platform/"><u>Transforming Language Education Through Mondly's AR Platform</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
+</ul></div>
+

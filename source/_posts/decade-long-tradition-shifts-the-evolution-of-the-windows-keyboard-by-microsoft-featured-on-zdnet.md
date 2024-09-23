@@ -1,7 +1,7 @@
 ---
 title: "Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet"
-date: 2024-09-18 19:39:57
-updated: 2024-09-20 10:27:18
+date: 2024-09-17T16:31:53.124Z
+updated: 2024-09-23T17:23:04.503Z
 tags:
   - windows
 categories:
@@ -54,6 +54,13 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -65,6 +72,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -83,11 +97,25 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +147,27 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-uncover-vanished-watch-video-preview/"><u>[New] 2024 Approved Uncover Vanished Watch Video Preview</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-to-turn-off-igtv/"><u>2024 Approved Step-by-Step to Turn Off IGTV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-12r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 12R Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-cinematic-converter-turn-humble-footage-into-breathtaking-films/"><u>In 2024, Cinematic Converter Turn Humble Footage Into Breathtaking Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g42-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G42 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-pacific-drive-from-crashing-on-windows-and-mac-systems/"><u>Step-by-Step Guide: Stop Pacific Drive From Crashing on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-vergoed-vrije-foto-samenvoegen-software-best-gereedschap-voor-online-and-desktops/"><u>Top Vergoed Vrije Foto Samenvoegen Software: Best Gereedschap Voor Online & Desktops</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-y-gratuita-de-video-f4v-a-flash-swf-con-movavi-online/"><u>Transformación Libre Y Gratuita De Video F4V a Flash (SWF) Con Movavi Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-contacts-disappearing-find-solutions-here/"><u>Why Are My iPhone Contacts Disappearing? Find Solutions Here</u></a></li>
+</ul></div>
+
