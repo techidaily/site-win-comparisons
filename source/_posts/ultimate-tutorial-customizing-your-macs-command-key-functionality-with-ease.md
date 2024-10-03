@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Customizing Your Mac's Command Key Functionality with Ease"
-date: 2024-09-27T04:39:28.791Z
-updated: 2024-09-27T21:10:23.184Z
+date: 2024-09-27T16:01:50.748Z
+updated: 2024-10-03T07:35:25.005Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -103,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -135,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-economical-pc-playback-devices-for-2024/"><u>[Updated] Economical PC Playback Devices for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-linked-insight-merging-instagram-and-tiktok/"><u>[Updated] Linked Insight Merging Instagram & TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quickstart-guide-making-videography-easier-with-pixiz/"><u>2024 Approved Quickstart Guide Making Videography Easier with Pixiz</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/"><u>Addressing Non-Functional Gadget Alert in Windows 11</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/automatisierte-rechnungsbearbeitung-bei-pepsico-mit-hilfe-von-abbyy-software/"><u>Automatisierte Rechnungsbearbeitung Bei PepsiCo Mit Hilfe Von ABBYY Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/fresh-changes-on-the-horizon-microsofts-next-move-for-windows-updates-coverage-by-zdnet/"><u>Fresh Changes on the Horizon: Microsoft's Next Move for Windows Updates Coverage by ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 7 Plus?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-topics-with-a-twist-for-your-vlog-talks/"><u>In 2024, Topics with a Twist for Your Vlog Talks</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/microsofts-subtle-update-sparks-major-backlash-among-users-technews/"><u>Microsoft's Subtle Update Sparks Major Backlash Among Users | TechNews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/new-fee-alert-microsoft-plans-to-charge-for-windows-10-updates-from-next-year-cost-breakdown-zdnet/"><u>New Fee Alert: Microsoft Plans to Charge for Windows 10 Updates From Next Year - Cost Breakdown | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-easy-the-best-online-tone-generator-sites/"><u>New Free and Easy The Best Online Tone Generator Sites</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/next-gen-law-practice-boost-how-microsoft-copilot-enhances-singapores-legal-tech-infrastructure-zdnet/"><u>Next-Gen Law Practice Boost: How Microsoft Copilot Enhances Singapore's Legal Tech Infrastructure | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/rebinding-your-macs-command-key-ultimate-tutorial-by-zdnet/"><u>Rebinding Your Mac's Command Key - Ultimate Tutorial by ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/upgrade-your-pc-now-windows-11-versions-21h2-and-22h2-hit-end-of-life-patch-immediately-to-avoid-security-risks/"><u>Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-innovative-strategies-for-effective-macscreencasting/"><u>[New] 2024 Approved Innovative Strategies for Effective MacScreencasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-youtube-content-manager-toolkit/"><u>[Updated] 2024 Approved Exploring the YouTube Content Manager Toolkit</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>[Updated] 2024 Approved Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-spectacular-top-5-slow-motion-cams-for-2024/"><u>[Updated] Spectacular Top 5 Slow Motion Cams for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>2024 Approved Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mirth-manual-best-free-meme-kits-alive/"><u>2024 Approved Mirth Manual Best Free Meme Kits Alive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/22-streamline-communication-leading-free-ai-email-services/"><u>22 Streamline Communication: Leading Free AI Email Services</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube-for-2024/"><u>Amplify Your Video Content with Precision Insights From Social Blade & YouTube for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/converter-de-gratis-online-para-imagens-apng-aplicativo-facil-e-eficiente-do-movavi/"><u>Converter De Grátis Online Para Imagens Apng - Aplicativo Fácil E Eficiente Do Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/tecnicas-facilmente-rentables-para-comprimir-videos-en-formato-avi-con-la-herramienta-de-compresion-de-movavi/"><u>Técnicas Fácilmente Rentables Para Comprimir Vídeos en Formato AVI Con La Herramienta De Compresión De Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/free-qt-to-wmv-movavi/"><u>オンラインで行うFREE QT to WMV ビデオ変換: Movaviの使いやすいツール選び方</u></a></li>
 </ul></div>
 

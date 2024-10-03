@@ -1,7 +1,7 @@
 ---
 title: "Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis"
-date: 2024-09-24T16:54:48.969Z
-updated: 2024-09-27T22:56:14.842Z
+date: 2024-09-26T22:43:56.068Z
+updated: 2024-10-03T09:31:38.260Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,19 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>[New] Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-techniques-for-swift-blurring-in-picture-editing/"><u>[New] Masterful Techniques for Swift Blurring in Picture Editing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/10-update-services-in-the-coming-year-what-you-need-to-know/"><u>10 Update Services in the Coming Year – What You Need to Know</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/amazons-exit-from-windows-11-marketplace-as-microsoft-takes-action/"><u>Amazon's Exit From Windows 11 Marketplace as Microsoft Takes Action</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/breaking-news-will-you-have-to-pay-for-windows-10-updates-find-out-what-microsoft-plans-and-pricing-details/"><u>Breaking News: Will You Have to Pay for Windows 10 Updates? Find Out What Microsoft Plans and Pricing Details!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/debunking-macos-myths-for-windows-enthusiasts-a-detailed-analysis-by-zdnet/"><u>Debunking macOS Myths for Windows Enthusiasts – A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/decade-long-tradition-shifts-the-evolution-of-the-windows-keyboard-by-microsoft-featured-on-zdnet/"><u>Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-upgrade-to-the-latest-intel-dual-band-wifi-ac-3160-driver/"><u>Effortlessly Upgrade to the Latest Intel Dual Band WiFi AC 3160 Driver</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-next-level-viewing-with-the-sony-xbr4ebr49x900f-a-thorough-appraisal-of-its-4k-uhd-technology-and-intelligent-interface/"><u>Experience Next-Level Viewing with the Sony XBR4ebr49X900F - A Thorough Appraisal of Its 4K UHD Technology and Intelligent Interface</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-gpu-nostalgia-update/"><u>In 2024, GPU Nostalgia Update</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-11-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 11 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 6 Plus</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/which-smart-home-helper-wins-a-comparison-of-alexa-and-google-assistant/"><u>Which Smart Home Helper Wins?: A Comparison of Alexa and Google Assistant</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/zdnets-top-picks-superior-standing-desk-attachment-units-reviewed/"><u>ZDNET's Top Picks: Superior Standing Desk Attachment Units Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-better-facebook-video-ads/"><u>[New] How to Make Better Facebook Video Ads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-androids-top-video-recording-options-5-excellent-picks/"><u>[Updated] Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-online-presence-making-videos-on-mobile/"><u>[Updated] In 2024, Elevate Your Online Presence Making Videos on Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-tactics-capturing-high-quality-sports-streams-online/"><u>[Updated] In 2024, Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/achieve-crystal-clear-hd-quality-in-games-by-leveraging-nvidias-nvenc-for-hevc-compression-technology/"><u>Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-powerful-storytelling-through-screencasts/"><u>In 2024, Unlocking Powerful Storytelling Through Screencasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-mystery-behind-apples-m1-chip/"><u>In 2024, Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/professionelle-audiodaten-aus-dvds-in-wav-oder-mp3-exportieren-gratis-mac-software-zum-extrahieren/"><u>Professionelle Audiodaten Aus DVDs in .wav Oder MP3 Exportieren - Gratis-Mac-Software Zum Extrahieren</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-repairing-and-restoring-functionality-to-your-xbox-series-console-headphones/"><u>Step-by-Step Guide: Repairing and Restoring Functionality to Your Xbox Series Console Headphones</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-instructions-for-securing-hd-versions-of-padman-film-and-previews/"><u>Step-by-Step Instructions for Securing HD Versions of PadMan Film and Previews</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-downloading-and-transforming-videos-from-videahu-into-mp4-on-mac-os-and-window-systems/"><u>Step-by-Step Tutorial on Downloading and Transforming Videos From Videa.hu Into MP4 on MAC OS & Window Systems</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/steps-for-downloading-medical-training-footage-from-the-spear-education-platform/"><u>Steps for Downloading Medical Training Footage From the Spear Education Platform</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-youtube-replacement-options-for-mac-and-windows-users-discover-allavsofts-superior-solution/"><u>Top YouTube Replacement Options for Mac & Windows Users: Discover Allavsoft's Superior Solution</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-tutorial-capturing-and-saving-shows-from-blip-tv-for-windows-and-macos-users/"><u>Ultimate Tutorial: Capturing and Saving Shows From Blip TV for Windows and macOS Users</u></a></li>
 </ul></div>
 

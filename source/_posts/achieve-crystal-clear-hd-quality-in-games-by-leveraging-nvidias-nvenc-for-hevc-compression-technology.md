@@ -1,7 +1,7 @@
 ---
 title: Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology
-date: 2024-09-20T18:19:40.770Z
-updated: 2024-09-27T23:59:14.219Z
+date: 2024-09-29T07:45:49.952Z
+updated: 2024-10-03T01:36:43.974Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  NVIDIA NVENC acceleration for H.265/HEVC gameplay recording 
@@ -58,13 +58,6 @@ Action Tutorials
 **H.265/HEVC** gameplay recording to MP4 format with NVIDIA NVENC acceleration is available starting from **Action! 1.31.0**. Using **H.265/HEVC** with NVIDIA NVENC acceleration allows to record high quality, low bitrate, smooth gameplays producing **smaller gameplay recording files** compared to H.264/AVC.
 
  Please check NVIDIA NVENC system requirements below to see if your PC is ready to use NVIDIA NVENC accelerated H.265/HEVC encoding.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  System Requirements for NVIDIA NVENC H.265/HEVC acceleration 
 
@@ -76,10 +69,10 @@ Action Tutorials
 * The latest Action! version
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting NVIDIA NVENC H.265/HEVC for gameplay recording
@@ -89,10 +82,17 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC gameplay recordings playback 
@@ -115,20 +115,21 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-earn-big-stay-safe-top-5-income-boosting-posts-for-2024/"><u>[New] Earn Big, Stay Safe Top 5 Income Boosting Posts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-from-silence-to-spotlight-the-solo-podcast-artists-journey/"><u>[New] From Silence to Spotlight The Solo Podcast Artist's Journey</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-leading-10-tiktok-video-maker-apps-on-pc/"><u>[New] Leading 10 TikTok Video Maker Apps on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-url-integration-in-ig-stories-and-posts/"><u>[Updated] In 2024, Navigating URL Integration in IG Stories and Posts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-techniques-for-managing-switch-gamer-profiles/"><u>Advanced Techniques for Managing Switch Gamer Profiles</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-saving-milliyet-news-segments-as-mp4-files-on-pcs-and-macs/"><u>Step-by-Step Guide: Saving Milliyet News Segments as MP4 Files on PCs & Macs</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-saving-your-digital-learning-materials-downloading-online-courses-for-pc-and-mac/"><u>Step-by-Step Guide: Saving Your Digital Learning Materials - Downloading Online Courses for PC and Mac</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-instructions-for-converting-and-saving-rainierland-movie-files-as-mp4-or-avi/"><u>Step-by-Step Instructions for Converting and Saving Rainierland Movie Files as MP4 or AVI</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-instructions-for-securing-hd-versions-of-padman-film-and-previews/"><u>Step-by-Step Instructions for Securing HD Versions of PadMan Film and Previews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-downloading-and-transforming-videos-from-videahu-into-mp4-on-mac-os-and-window-systems/"><u>Step-by-Step Tutorial on Downloading and Transforming Videos From Videa.hu Into MP4 on MAC OS & Window Systems</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/steps-for-downloading-medical-training-footage-from-the-spear-education-platform/"><u>Steps for Downloading Medical Training Footage From the Spear Education Platform</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-farming-games-to-kill-time-and-play-with-friends/"><u>Top 10 Farming Games to Kill Time and Play with Friends</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-youtube-replacement-options-for-mac-and-windows-users-discover-allavsofts-superior-solution/"><u>Top YouTube Replacement Options for Mac & Windows Users: Discover Allavsoft's Superior Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-initial-steps-to-master-the-art-of-pixel-mapping/"><u>[Updated] In 2024, Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips-for-2024/"><u>[Updated] Prime Emulation Tools Sony's PS1 Classics at the Fingertips for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/44cm5l244ge5ael44kb44kl44gg44gr44gn6ieq55sx44gr5yuv55s744oe44o844k444gm5yplusv6io944gq44k944ov44oi44km44kn44ki44cn/"><u>「使い始めるだけで自由に動画マージが可能なソフトウェア」</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-expert-advice-how-to-capture-your-iphone-or-ipads-display-like-a-pro/"><u>1. Expert Advice: How to Capture Your iPhone or iPad's Display Like a Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-storytelling-channels-for-impactful-yt-watching/"><u>2024 Approved Best Storytelling Channels for Impactful YT Watching</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-guide-to-enable-and-view-flv-content-seamlessly-on-android-platforms/"><u>Complete Guide to Enable & View FLV Content Seamlessly on Android Platforms</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-step-by-step-tutorial-mastering-pc-auto-chess-strategies/"><u>Complete Step-by-Step Tutorial: Mastering PC Auto Chess Strategies</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/enhance-your-storytelling-with-text-in-instagram-videos-a-comprehensive-tutorial/"><u>Enhance Your Storytelling with Text in Instagram Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-cost-the-ultimate-guide-to-microsoft-surface-studio-2/"><u>Evaluating Performance & Cost - The Ultimate Guide to Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-assessment-the-combination-of-quality-and-efficiency-in-the-huion-inspiroy-g10t-art-pad/"><u>Expert Assessment: The Combination of Quality and Efficiency in the Huion Inspiroy G10T Art Pad</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/explore-the-finest-no-cost-screen-recorder-applications-for-your-mac-computer/"><u>Explore the Finest No-Cost Screen Recorder Applications for Your Mac Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-cutting-edge-devices-with-toms-hardware-analysis/"><u>Exploring Cutting-Edge Devices with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-favorite-songs-for-free-with-these-best-7-apps-for-iphone-and-android-devices/"><u>Find Your Favorite Songs for Free with These ^Best^ 7 Apps for iPhone & Android Devices</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/what-you-need-to-know-the-future-of-free-windows-updates-with-windows-11-and-possible-charges-initiation-by-microsoft/"><u>What You Need to Know: The Future of Free Windows Updates with Windows 11 and Possible Charges Initiation by Microsoft</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/windows-based-alternative-to-the-mac-mini-exploring-the-best-mini-pc-options/"><u>Windows-Based Alternative to the Mac Mini: Exploring the Best Mini PC Options</u></a></li>
 </ul></div>
 

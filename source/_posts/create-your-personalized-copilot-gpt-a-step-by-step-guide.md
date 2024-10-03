@@ -1,7 +1,7 @@
 ---
 title: "Create Your Personalized Copilot GPT: A Step-by-Step Guide"
-date: 2024-09-25T17:00:42.498Z
-updated: 2024-09-27T16:15:26.643Z
+date: 2024-09-30T08:38:06.038Z
+updated: 2024-10-03T09:26:29.924Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-unfollow-a-path-towards-a-lasting-account-discontinuation/"><u>[Updated] In 2024, Insta Unfollow A Path Towards a Lasting Account Discontinuation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-stability-top-photo-tripods-for-iphones-and-androids/"><u>[Updated] Ultimate Stability Top Photo Tripods for iPhones & Androids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-moto-z2-unpacked-a-smartphones-triumph/"><u>2024 Approved Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/movavi-m4amp3wav/"><u>免費在線取得Movavi M4A編解碼器，便利MP3/WAV改善 - 全球最佳媒體服務</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/adding-swf-movies-to-plays-on-flipping-pages-is-it-possible-discover-how-with-flipbuildercom/"><u>Adding SWF Movies to Plays on Flipping Pages: Is It Possible? Discover How with [FlipBuilder.com]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/amd-classic-bundle-for-2024/"><u>AMD Classic Bundle for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/best-playback-software-for-vob-format-video-streaming-on-pc-and-mac-comprehensive-guide-to-movavi-converter/"><u>Best Playback Software for VOB Format Video Streaming on PC and Mac - Comprehensive Guide to Movavi Converter</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/building-miniature-digital-flipbooks-and-seamless-web-integration-using-flipbuilder/"><u>Building Miniature Digital Flipbooks & Seamless Web Integration Using FlipBuilder</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/constantly-displaying-your-flipbook-index-a-guide-with-flipbuilder/"><u>Constantly Displaying Your FlipBook Index - A Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/converte-i-file-m4a-in-formato-mov-gratuitamente-on-line-con-convertitore-di-movavi/"><u>Converte I File M4A in Formato MOV Gratuitamente On-Line Con Convertitore Di Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-nokia-e34-ideal-first-smartphone-experience/"><u>Essential Guide to the Nokia E3.4 - Ideal First Smartphone Experience</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-tirer-et-retourner-des-images-a-laide-de-movavi/"><u>Guide Facile Pour Tirer Et Retourner Des Images À L'aide De Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/real-time-update-on-xbox-live-is-there-a-downtime-issue/"><u>Real-Time Update on Xbox Live - Is There a Downtime Issue?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/screenmasters-unite-for-2024/"><u>ScreenMasters Unite for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-fix-haldll-issues-in-windows-operating-systems-from-xp-through-to-windows-11/"><u>Step-by-Step Solutions to Fix Hal.dll Issues in Windows Operating Systems From XP Through to Windows 11</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tamiltunes-handbook-downloading-and-trimming-melodies-for-calls/"><u>[New] TamilTunes Handbook Downloading & Trimming Melodies for Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-igtv-potential-tips-and-strategies-for-2024/"><u>[New] Unlocking IGTV Potential Tips & Strategies for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/10-update-services-in-the-coming-year-what-you-need-to-know/"><u>10 Update Services in the Coming Year – What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/amazons-exit-from-windows-11-marketplace-as-microsoft-takes-action/"><u>Amazon's Exit From Windows 11 Marketplace as Microsoft Takes Action</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/breaking-news-will-you-have-to-pay-for-windows-10-updates-find-out-what-microsoft-plans-and-pricing-details/"><u>Breaking News: Will You Have to Pay for Windows 10 Updates? Find Out What Microsoft Plans and Pricing Details!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/debunking-macos-myths-for-windows-enthusiasts-a-detailed-analysis-by-zdnet/"><u>Debunking macOS Myths for Windows Enthusiasts – A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/decade-long-tradition-shifts-the-evolution-of-the-windows-keyboard-by-microsoft-featured-on-zdnet/"><u>Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/engage-in-enlightening-youtube-exchanges/"><u>Engage in Enlightening YouTube Exchanges</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-converte-facilmente-i-file-wma-in-formati-multipli-gratuitamente/"><u>Movavi: Converte Facilmente I File WMA in Formati Multipli Gratuitamente</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-frequent-pc-shutdowns-while-playing-overwatch-2/"><u>Overcoming Frequent PC Shutdowns While Playing Overwatch 2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-popularity-on-platforms-elevating-your-youtube-profile-for-2024/"><u>Pursuing Popularity on Platforms Elevating Your Youtube Profile for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a58-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A58 4G Location | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-rated-standing-desk-seating-options-best-wobble-stools-and-chairs-in-202/"><u>Top-Rated Standing Desk Seating Options: Best Wobble Stools & Chairs in 202</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/zdnets-top-picks-superior-standing-desk-attachment-units-reviewed/"><u>ZDNET's Top Picks: Superior Standing Desk Attachment Units Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet"
-date: 2024-09-26T04:14:52.387Z
-updated: 2024-09-27T22:55:44.502Z
+date: 2024-09-28T04:54:44.522Z
+updated: 2024-10-03T09:59:52.447Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -54,13 +61,6 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -74,10 +74,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -92,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -104,18 +104,24 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,16 +162,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-techniques-for-home-based-podcast-capture/"><u>[New] Professional Techniques for Home-Based Podcast Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-secrets-to-skyrocketing-your-subscriber-count/"><u>[New] Secrets to Skyrocketing Your Subscriber Count</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transform-your-visuals-instagram-video-borders/"><u>[Updated] 2024 Approved Transform Your Visuals Instagram Video Borders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>2024 Approved Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/movavi-m4amp3wav/"><u>免費在線取得Movavi M4A編解碼器，便利MP3/WAV改善 - 全球最佳媒體服務</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipated-highlights-and-innovations-at-the-google-io-developers-conference-2-problem/"><u>Anticipated Highlights and Innovations at the Google I/O Developers Conference 2 # Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-the-rpcrt4dll-file-cannot-be-found-error/"><u>Easy Fixes for the 'rpcrt4.dll File Cannot Be Found' Error</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-tirer-et-retourner-des-images-a-laide-de-movavi/"><u>Guide Facile Pour Tirer Et Retourner Des Images À L'aide De Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/starting-an-impactful-fb-community-giving-campaign-for-2024/"><u>Starting an Impactful FB Community Giving Campaign for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-securecam-covers-top-10-picks-for-peace-of-mind-for-2024/"><u>[New] SecureCam Covers Top 10 Picks for Peace of Mind for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-ultimate-guide-edit-your-images-online-with-advanced-background-replacement-features/"><u>1. Ultimate Guide: Edit Your Images Online with Advanced Background Replacement Features</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/diy-captioning-tips-how-to-annotate-pictures-on-instagram/"><u>DIY Captioning Tips: How to Annotate Pictures on Instagram</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-seamlessly-removing-persons-in-photographs-with-editing-software/"><u>Expert Tips for Seamlessly Removing Persons in Photographs with Editing Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-8-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 8 in the Best Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-backchannel-bridge-engaging-with-your-audience/"><u>In 2024, The Backchannel Bridge Engaging with Your Audience</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/maximize-your-viewing-experience-eliminate-iphone-x-notch-and-stream-seamlessly-to-pc/"><u>Maximize Your Viewing Experience: Eliminate iPhone X Notch & Stream Seamlessly to PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube/"><u>Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-tips-for-rapid-resizing-of-fonts-within-a-pdf-file/"><u>Quick Tips for Rapid Resizing of Fonts Within a PDF File</u></a></li>
 </ul></div>
 

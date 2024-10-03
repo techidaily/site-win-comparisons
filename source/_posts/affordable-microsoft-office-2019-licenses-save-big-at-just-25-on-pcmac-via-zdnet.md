@@ -1,7 +1,7 @@
 ---
 title: "Affordable Microsoft Office 2019 Licenses: Save Big at Just $25 on PC/Mac via ZDNet"
-date: 2024-09-22T21:02:23.086Z
-updated: 2024-09-28T03:55:31.377Z
+date: 2024-09-28T18:36:51.735Z
+updated: 2024-10-02T16:21:04.450Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mellowing-sound-piece-by-piece-in-fl/"><u>[New] Mellowing Sound Piece-by-Piece in FL</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-androids-guide-to-spinning-and-combining-video-files/"><u>[Updated] Android's Guide to Spinning & Combining Video Files</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-9-mic-technology-advances-a-deep-dive-analysis-for-2024/"><u>[Updated] Top 9 Mic Technology Advances A Deep Dive Analysis for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-peek-at-the-cutting-edge-features-for-windows-users/"><u>A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-moving-images-mirrorless-versus-dslr-for-2024/"><u>Capturing Moving Images Mirrorless Versus DSLR for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oneplus-ace-2v-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from OnePlus Ace 2V.</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/simple-guide-to-converting-rmvb-files-into-mp4-format-on-windows-and-mac/"><u>Simple Guide to Converting RMVB Files Into MP4 Format on Windows and Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transformacion-gratuita-al-formato-mkv-para-videos-wtv-mediante-software-en-linea/"><u>Transformación Gratuita Al Formato MKV Para Vídeos WTV Mediante Software en Línea</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-de-wav-a-mp4-en-linea-un-proceso-rapidisimo-y-sencillo/"><u>Transformación Libre De WAV a MP4 En Línea - Un Proceso Rapidísimo Y Sencillo</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trasforma-file-bmp-in-formato-png-via-web-gratuitamente-sito-di-movavi/"><u>Trasforma File BMP in Formato PNG Via Web Gratuitamente - Sito Di Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trasformare-file-m4r-in-formato-m4a-free-online-conversione-facile-con-movavi/"><u>Trasformare File M4R in Formato M4A Free Online - Conversione Facile Con Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-pick-of-16-leading-windows-11-recorder-apps-by-experts-movavi-reviewed/"><u>Ultimate Pick of 16 Leading Windows 11 Recorder Apps by Experts - Movavi Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[New] In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-playback-speed/"><u>[Updated] In 2024, Boosting Vimeo Playback Speed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-csr-bluetooth-chip-drivers-start-your-download-today/"><u>Easy Access to CSR Bluetooth Chip Drivers - Start Your Download Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-cr2-to-jpg-converter-by-movavi/"><u>Free Online CR2 to JPG Converter by Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/fresh-changes-on-the-horizon-microsofts-next-move-for-windows-updates-coverage-by-zdnet/"><u>Fresh Changes on the Horizon: Microsoft's Next Move for Windows Updates Coverage by ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-premier-iphone-tone-producers/"><u>In 2024, Ultimate List Premier iPhone Tone Producers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/microsoft-explores-ai-powered-chatbots-for-enhanced-xbox-customer-care-learn-the-mechanics/"><u>Microsoft Explores AI-Powered Chatbots for Enhanced Xbox Customer Care - Learn the Mechanics!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/um-live-streaming-system-expertly-chosen-equipment-lists-for-youtubers-for-2024/"><u>Premium Live Streaming System Expertly Chosen Equipment Lists for YouTubers for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-tutorial-customizing-your-macs-command-key-functionality-with-ease/"><u>Ultimate Tutorial: Customizing Your Mac's Command Key Functionality with Ease</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/upgrade-your-pc-now-windows-11-versions-21h2-and-22h2-hit-end-of-life-patch-immediately-to-avoid-security-risks/"><u>Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrchat-wont-start-discover-proven-fixes-and-get-back-to-gaming-immediastere/"><u>VRChat Won't Start? Discover Proven Fixes and Get Back to Gaming Immediastere!</u></a></li>
 </ul></div>
 

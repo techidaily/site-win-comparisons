@@ -1,7 +1,7 @@
 ---
 title: "Background Erase Feature: Capturing Images & Videos Using Intel RealSense Technology"
-date: 2024-09-25T03:00:15.470Z
-updated: 2024-09-28T01:25:01.444Z
+date: 2024-10-02T04:30:25.277Z
+updated: 2024-10-03T04:32:20.438Z
 tags:
   - product
 categories:
@@ -58,10 +58,16 @@ Requirements for using webcam background removal with Intel® RealSense™:
 [Download Action! with Intel® RealSense™ support](https://tools.techidaily.com/mirillis/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select webcam device to be added to gameplay recording 
@@ -71,16 +77,10 @@ Requirements for using webcam background removal with Intel® RealSense™:
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_select_webcam_intel_realsense.jpg "Select webcam device to be added to gameplay recording") 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Webcam Settings 
@@ -90,10 +90,10 @@ Requirements for using webcam background removal with Intel® RealSense™:
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings_intel_realsense.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Webcam recording settings and preview 
@@ -105,16 +105,10 @@ Requirements for using webcam background removal with Intel® RealSense™:
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_intel_realsense_setup.jpg "Webcam settings") 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make a gameplay recording 
@@ -136,19 +130,17 @@ Requirements for using webcam background removal with Intel® RealSense™:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-scripted-temporal-displacements-in-film-production-for-2024/"><u>[New] Scripted Temporal Displacements in Film Production for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-vanguard-firefox-recording-software-for-2024/"><u>[Updated] Vanguard FireFox Recording Software for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/achieve-crystal-clear-hd-quality-in-games-by-leveraging-nvidias-nvenc-for-hevc-compression-technology/"><u>Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722888350275-discover-the-best-8-no-cost-music-apps-on-iphone-today/"><u>Discover the Best 8 No-Cost Music Apps on iPhone Today!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-tips-and-tricks-your-complete-mirillis-course-companion/"><u>Expert Tips & Tricks - Your Complete MirilliS Course Companion</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-to-fixing-critical-error-104-a-step-by-step-solution-guide/"><u>Guide to Fixing Critical Error 104 – A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>In 2024, A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-paying-for-chatgpt-plus-advantageous-over-the-basic-version-a-zdnet-examination/"><u>Is Paying for ChatGPT Plus Advantageous Over the Basic Version? A ZDNet Examination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfected-phrasing-eliminating-mistakes-using-chatgpt/"><u>Perfected Phrasing: Eliminating Mistakes Using ChatGPT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-sudden-application-failures-in-rust-development/"><u>Resolving Sudden Application Failures in Rust Development</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-tutorial-capturing-and-saving-shows-from-blip-tv-for-windows-and-macos-users/"><u>Ultimate Tutorial: Capturing and Saving Shows From Blip TV for Windows and macOS Users</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/win10s-best-bet-for-screen-snaps-and-recordings-for-2024/"><u>Win10's Best Bet for Screen Snaps and Recordings for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[Updated] Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-palette-prestige-highlighting-10-free-mac-compatible-art-tools-for-2024/"><u>[Updated] Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered-for-2024/"><u>[Updated] The Ultimate iPhone Photography Playbook Prime Angles Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-takes-an-immediate-hit-exploring-italys-overnight-prohibition-explained/"><u>ChatGPT Takes an Immediate Hit: Exploring Italy's Overnight Prohibition Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-cambiar-video-mpeg-a-vob-sin-costo-alguno-usando-la-herramienta-en-linea-de-convertidor-movavi/"><u>Cómo Cambiar Video MPEG a VOB Sin Costo Alguno Usando La Herramienta en Línea De Convertidor Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-seamlessly-removing-persons-in-photographs-with-editing-software/"><u>Expert Tips for Seamlessly Removing Persons in Photographs with Editing Software</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-transforming-photographs-into-dynamic-video-content/"><u>Expert Tips for Transforming Photographs Into Dynamic Video Content</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>In 2024, Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-tips-for-rapid-resizing-of-fonts-within-a-pdf-file/"><u>Quick Tips for Rapid Resizing of Fonts Within a PDF File</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-mastering-your-htc-ones-data-restoration-using-top-htc-one-recovery-software/"><u>Step-by-Step Guide: Mastering Your HTC One's Data Restoration Using Top HTC One Recovery Software</u></a></li>
 </ul></div>
 

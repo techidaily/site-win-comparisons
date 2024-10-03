@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Announcement by Southwest: Happy Updates For All Passengers Apart From the Tech Magnate"
-date: 2024-09-27T02:28:45.056Z
-updated: 2024-09-27T21:39:34.689Z
+date: 2024-09-29T03:10:10.376Z
+updated: 2024-10-03T09:55:57.937Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigating-screen-space-enlargement-on-youtube/"><u>[New] In 2024, Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-on-chromebook-essential-advice/"><u>2024 Approved Navigating Zoom on Chromebook Essential Advice</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/all-in-one-screen-capture-tools-the-ultimate-guide/"><u>All-in-One Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/conversion-en-ligne-pour-convertir-les-fichiers-er-3gpp-en-gif-sans-frais-services-de-movavi/"><u>Conversion en Ligne Pour Convertir Les Fichiers Er 3GPP en GIF Sans Frais - Services De Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/descubra-como-transformar-videos-ts-em-flv-gratuitamente-on-line-usando-o-movavi-passo-a-passo-e-facil-de-seguir/"><u>Descubra Como Transformar Vídeos TS Em FLV Gratuitamente On-Line Usando O Movavi - Passo a Passo E Fácil De Seguir</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guia-rapida-para-cambiar-videos-wmv-a-avi-sin-costo-usando-el-servicio-en-linea-de-movavi/"><u>Guía Rápida Para Cambiar Videos WMV a AVI Sin Costo Usando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-poco-x6-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Poco X6 Location | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-m14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy M14 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mov-aiff-movavi/"><u>무료 MOV 앤 AIFF 교체 스크린샷 - Movavi 용인</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/catch-the-microsoft-surface-and-windows-ai-event-live-what-to-anticipate-zdnet-updates/"><u>Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/create-your-personalized-copilot-gpt-a-step-by-step-guide/"><u>Create Your Personalized Copilot GPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-dark-mode-gone-heres-how-you-can-get-it-back/"><u>Facebook Dark Mode Gone? Here’s How You Can Get It Back!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-t2x-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo T2x 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-v30-lite-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo V30 Lite 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-8t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 8T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/urgent-fix-needed-microsofts-critical-challenge-with-windows-11-looms-just-one-year-left-technewszdnet/"><u>Urgent Fix Needed: Microsoft's Critical Challenge with Windows 11 Looms - Just One Year Left! | TechNewsZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/windows-users-rejoice-the-long-awaited-macbook-rival-emerges-in-the-form-of-the-microsoft-surface-pro-9-detailed-insight-from-zdnet/"><u>Windows Users Rejoice: The Long-Awaited MacBook Rival Emerges in the Form of the Microsoft Surface Pro 9 – Detailed Insight From ZDNet</u></a></li>
 </ul></div>
 

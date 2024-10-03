@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Subtle Update Sparks Major Backlash Among Users | TechNews
-date: 2024-09-20T16:34:49.216Z
-updated: 2024-09-28T01:09:46.302Z
+date: 2024-09-29T05:43:02.648Z
+updated: 2024-10-02T16:26:21.325Z
 tags:
   - microsoft
 categories:
@@ -114,27 +114,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-curating-background-beats-for-video-releases/"><u>[New] 2024 Approved Curating Background Beats for Video Releases</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-10-audio-boosters-for-os-x-ios-android/"><u>[New] 2024 Approved Elite 10 Audio Boosters for OS X, iOS, Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-for-mac-quick-installation-tips/"><u>[Updated] Snapchat for MAC Quick Installation Tips</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/all-in-one-screen-capture-tools-the-ultimate-guide/"><u>All-in-One Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/conversion-en-ligne-pour-convertir-les-fichiers-er-3gpp-en-gif-sans-frais-services-de-movavi/"><u>Conversion en Ligne Pour Convertir Les Fichiers Er 3GPP en GIF Sans Frais - Services De Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/descubra-como-transformar-videos-ts-em-flv-gratuitamente-on-line-usando-o-movavi-passo-a-passo-e-facil-de-seguir/"><u>Descubra Como Transformar Vídeos TS Em FLV Gratuitamente On-Line Usando O Movavi - Passo a Passo E Fácil De Seguir</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/get-libdvdcss2-dll-file-for-windows-pc-download-guide-windows-11-10-8-and-7/"><u>Get LibDVDCSS2 DLL File for Windows PC - Download Guide (Windows 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guia-rapida-para-cambiar-videos-wmv-a-avi-sin-costo-usando-el-servicio-en-linea-de-movavi/"><u>Guía Rápida Para Cambiar Videos WMV a AVI Sin Costo Usando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-best-jpg-to-gif-tools-online-free-and-easy/"><u>In 2024, Best JPG to GIF Tools Online, Free and Easy</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-decoding-the-download-your-guide-to-fb-videography/"><u>In 2024, Decoding the Download Your Guide to FB Videography</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-selection-of-8-android-group-calling-tools-for-2024/"><u>The Ultimate Selection of 8 Android Group Calling Tools for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transcode-un-fichier-webm-vers-flv-gratuitement-en-ligne-convertisseur-video-rapide/"><u>Transcode Un Fichier WEBM Vers FLV Gratuitement en Ligne - Convertisseur Vidéo Rapide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transformacion-gratuita-de-tta-a-flac-online-sin-esfuerzo-con-movavi/"><u>Transformación Gratuita De TTA a FLAC Online Sin Esfuerzo Con Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mov-aiff-movavi/"><u>무료 MOV 앤 AIFF 교체 스크린샷 - Movavi 용인</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-social-media-secrets-with-instagram-insights-for-2024/"><u>[New] Unlock Social Media Secrets with Instagram Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-visibility-comprehensive-guide-to-video-marketing-titles/"><u>[Updated] 2024 Approved Elevate Visibility Comprehensive Guide to Video Marketing Titles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevate-iphone-snapshots-with-these-hacks/"><u>Elevate iPhone Snapshots with These Hacks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lenovo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lenovo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chuckle-crafting-tool/"><u>In 2024, Chuckle Crafting Tool</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mac-display-recorder-tips-and-tricks-for-2024/"><u>Mac Display Recorder Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/macprovideo-extraction-and-conversion-convert-your-videos-to-mp4-mov-or-avi-formats/"><u>MacProVideo Extraction & Conversion: Convert Your Videos to MP4, MOV, or AVI Formats</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-guide-on-how-to-download-videos-from-safaribooksonline/"><u>Quick Guide on How to Download Videos From SafariBooksOnline</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-on-saving-nasm-courses-as-various-audiovideo-files-for-easy-access/"><u>Step-by-Step Guide on Saving NASM Courses as Various Audio/Video Files for Easy Access</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-downloading-crunchyroll-episodes-for-offline-viewing-on-pcs-and-macs/"><u>Step-by-Step Guide: Downloading Crunchyroll Episodes for Offline Viewing on PCs & Macs</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

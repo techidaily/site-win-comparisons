@@ -1,7 +1,7 @@
 ---
 title: Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates
-date: 2024-09-24T17:45:35.003Z
-updated: 2024-09-27T23:30:29.072Z
+date: 2024-09-30T08:55:23.325Z
+updated: 2024-10-03T05:10:29.473Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +77,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +142,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +159,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +208,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound/"><u>[New] In 2024, Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-launchpad-to-digital-society-the-essentials-of-facebook-account-creation/"><u>[New] Launchpad to Digital Society The Essentials of Facebook Account Creation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-macos-sierra-integration-techniques/"><u>[New] Seamless MacOS Sierra Integration Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-hidden-secrets-of-facetime-voice-capturing/"><u>[Updated] 2024 Approved Unveiling the Hidden Secrets of FaceTime Voice Capturing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-capturing-virtual-conversations-in-real-time-for-2024/"><u>[Updated] Capturing Virtual Conversations in Real Time for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-virtual-realities-ios-and-androids-best-apps/"><u>[Updated] Top Virtual Realities IOS & Android's Best Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-explore-highly-recommended-sandbox-titles/"><u>2024 Approved Explore Highly Recommended Sandbox Titles</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/converter-de-gratis-online-para-imagens-apng-aplicativo-facil-e-eficiente-do-movavi/"><u>Converter De Grátis Online Para Imagens Apng - Aplicativo Fácil E Eficiente Do Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/facil-transferencia-m2p-ao-inves-da-imprensa-ferramenta-gratuita-do-movavi/"><u>Fácil Transferência M2P Ao Invés Da Imprensa - Ferramenta Gratuita Do Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tecnicas-facilmente-rentables-para-comprimir-videos-en-formato-avi-con-la-herramienta-de-compresion-de-movavi/"><u>Técnicas Fácilmente Rentables Para Comprimir Vídeos en Formato AVI Con La Herramienta De Compresión De Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-vergoed-vrije-foto-samenvoegen-software-best-gereedschap-voor-online-and-desktops/"><u>Top Vergoed Vrije Foto Samenvoegen Software: Best Gereedschap Voor Online & Desktops</u></a></li>
-<li><a href="https://blog-min.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-m4r-en-fichier-mp3-gratuitement-en-ligne-avec-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier M4R en Fichier MP3 Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transform-your-online-presence-with-manycams-innovative-live-video-and-virtual-webcam-tools/"><u>Transform Your Online Presence with ManyCam's Innovative Live Video and Virtual Webcam Tools</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-y-gratuita-de-video-f4v-a-flash-swf-con-movavi-online/"><u>Transformación Libre Y Gratuita De Video F4V a Flash (SWF) Con Movavi Online</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/free-qt-to-wmv-movavi/"><u>オンラインで行うFREE QT to WMV ビデオ変換: Movaviの使いやすいツール選び方</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chart-topping-photos-origins-explored/"><u>[Updated] Chart-Topping Photos Origins Explored</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/assessing-value-comparing-free-and-premium-chatgpt-services-zdnet-analysis/"><u>Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/exceptional-announcement-by-southwest-happy-updates-for-all-passengers-apart-from-the-tech-magnate/"><u>Exceptional Announcement by Southwest: Happy Updates For All Passengers Apart From the Tech Magnate</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P55 5G FRP Locks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-fix-common-instagram-video-errors/"><u>In 2024, How to Fix Common Instagram Video Errors</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/navigating-the-future-of-work-with-microsofts-latest-tech-savvy-gadgets-a-zdnet-perspective/"><u>Navigating the Future of Work with Microsoft's Latest Tech-Savvy Gadgets: A ZDNet Perspective</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-ace-2-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Ace 2</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/revitalizing-team-dynamics-microsoft-boosts-employee-engagement-with-enhanced-teams-features/"><u>Revitalizing Team Dynamics: Microsoft Boosts Employee Engagement with Enhanced Teams Features</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-tech-phoenix-apples-historic-powerbook-of-94-revived-equipped-with-an-ipad-display-and-2015-macbook-pro-core-internals-for-the-ultimate-vintage-modern-h17/"><u>The Tech Phoenix: Apple's Historic PowerBook of '94 Revived, Equipped with an iPad Display & 2015 MacBook Pro Core Internals for the Ultimate Vintage-Modern Hybrid Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/w64-mp3-movavi/"><u>W64 MP3ファイルを無料でオンライン変換: Movaviの簡単ガイド</u></a></li>
 </ul></div>
 

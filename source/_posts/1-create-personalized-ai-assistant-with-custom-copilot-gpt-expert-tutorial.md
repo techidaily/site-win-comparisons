@@ -1,7 +1,7 @@
 ---
 title: "1. Create Personalized AI Assistant with Custom Copilot GPT: Expert Tutorial"
-date: 2024-09-25T16:07:59.318Z
-updated: 2024-09-27T21:57:57.227Z
+date: 2024-10-02T05:18:01.681Z
+updated: 2024-10-03T00:37:39.473Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-srt-in-windows-macos-environments/"><u>[Updated] In 2024, Navigating SRT in Windows, macOS Environments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iphone-close-up-techniques-for-photo-excellence/"><u>2024 Approved Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/affordable-microsoft-office-2019-licenses-save-big-at-just-25-on-pcmac-via-zdnet/"><u>Affordable Microsoft Office 2019 Licenses: Save Big at Just $25 on PC/Mac via ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/assessing-value-comparing-free-and-premium-chatgpt-services-zdnet-analysis/"><u>Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-igtv-views-top-5-tactics-for-increased-engagement-for-2024/"><u>Boost Your IGTV Views Top 5 Tactics for Increased Engagement for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/exceptional-announcement-by-southwest-happy-updates-for-all-passengers-apart-from-the-tech-magnate/"><u>Exceptional Announcement by Southwest: Happy Updates For All Passengers Apart From the Tech Magnate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-unresponsive-headset-mic-on-sony-wh-1000-series-for-desktop-computers/"><u>How to Repair the Unresponsive Headset Mic on Sony WH-1000 Series for Desktop Computers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-ultimate-9-hidden-media-extractors/"><u>In 2024, Ultimate 9 Hidden Media Extractors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722746713657-mastering-the-viewing-experience-with-lgs-65-inch-oled-c9-a-detailed-analysis/"><u>Mastering the Viewing Experience with LG's 65-Inch OLED C9 - A Detailed Analysis.</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/navigating-the-future-of-work-with-microsofts-latest-tech-savvy-gadgets-a-zdnet-perspective/"><u>Navigating the Future of Work with Microsoft's Latest Tech-Savvy Gadgets: A ZDNet Perspective</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revitalizing-team-dynamics-microsoft-boosts-employee-engagement-with-enhanced-teams-features/"><u>Revitalizing Team Dynamics: Microsoft Boosts Employee Engagement with Enhanced Teams Features</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlock-instant-app-control-manage-your-smartphone-through-windows-11s-new-feature/"><u>Unlock Instant App Control: Manage Your Smartphone Through Windows 11'S New Feature!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/unlocking-new-features-the-benefits-and-process-of-switching-from-windows-home-to-pro-for-free/"><u>Unlocking New Features: The Benefits and Process of Switching From Windows Home to Pro for Free</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-make-any-fb-video-pop-with-full-screen-mode/"><u>[New] How to Make Any FB Video Pop with Full-Screen Mode</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>2024 Approved Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-with-these-simple-fixes-for-disco-elysium-on-pc/"><u>Enhance Your Gaming with These Simple Fixes for 'Disco Elysium' On PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/hack-your-pc-enable-windows-11-installation-on-unsupported-chips/"><u>Hack Your PC: Enable Windows 11 Installation on Unsupported Chips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uniting-video-worlds-youtube-meets-tiktok/"><u>In 2024, Uniting Video Worlds YouTube Meets TikTok</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-unload-chosen-pictures-once-theyre-uploaded-to-flipbuilder/"><u>Is It Possible to Unload Chosen Pictures Once They're Uploaded to FlipBuilder?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mastering-image-protection-adding-watermarks-using-flipbuilders-tools/"><u>Mastering Image Protection: Adding Watermarks Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/maximizing-conversions-boosting-website-visits-through-your-flipbuilder-brochures/"><u>Maximizing Conversions: Boosting Website Visits Through Your FlipBuilder Brochures</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/navigating-through-flipprograms-scenes-capabilities-and-constraints-a-comprehensive-guide/"><u>Navigating Through FlipPrograms' Scenes Capabilities and Constraints - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-diy-with-advanced-technology-anticipating-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Advanced Technology: Anticipating the Arrival of GPT-4</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/seamlessly-displaying-flipbuilder-pdfs-on-your-custom-webpage-ultimate-tutorial/"><u>Seamlessly Displaying FlipBuilder PDFs on Your Custom Webpage – Ultimate Tutorial</u></a></li>
 </ul></div>
 
