@@ -1,7 +1,7 @@
 ---
 title: Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider
-date: 2024-10-02T00:35:21.628Z
-updated: 2024-10-03T02:56:04.241Z
+date: 2024-10-04T16:12:33.047Z
+updated: 2024-10-08T16:39:53.709Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,16 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -160,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -208,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-4k-at-your-fingertips-benq-bl2711u-uncovered/"><u>[New] Professional 4K at Your Fingertips BenQ BL2711U Uncovered</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>[New] Tailoring Video Edits The Reason for iMovie Cropping</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-create-personalized-ai-assistant-with-custom-copilot-gpt-expert-tutorial/"><u>1. Create Personalized AI Assistant with Custom Copilot GPT: Expert Tutorial</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/affordable-tech-upgrade-alert-score-premium-microsoft-project-and-visio-pro-licenses-for-a-steal-at-only-20-hot-deal-featured-on-zdnet/"><u>Affordable Tech Upgrade Alert: Score Premium Microsoft Project and Visio Pro Licenses for a Steal at Only $20 – Hot Deal Featured on ZDNET!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722891880866-anticipated-launch-of-samsung-galaxy-s25-ultra-latest-price-forecasts-and-release-timeline-revealed/"><u>Anticipated Launch of Samsung Galaxy S25 Ultra - Latest Price Forecasts & Release Timeline Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-openai-steering-clear-of-gpt-control/"><u>Are OpenAI Steering Clear of GPT Control?</u></a></li>
-<li><a href="https://facebook.techidaily.com/bridging-gaps-facebook-and-instagram-now-tighter-linked/"><u>Bridging Gaps: Facebook & Instagram Now Tighter Linked</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/hesitant-about-the-leap-to-windows-11-discover-your-options-with-zdnet-guidance/"><u>Hesitant About the Leap to Windows 11? Discover Your Options with ZDNet Guidance</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-90-gt-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor 90 GT FRP Bypass Instantly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/introducing-microsofts-new-ai-tool-for-effortless-copying-and-pasting-learn-how-to-utilize-its-features-zdnet/"><u>Introducing Microsoft's New AI Tool for Effortless Copying and Pasting - Learn How to Utilize Its Features | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-microsoft-retiring-its-free-windows-10-upgrade-program-find-out-here/"><u>Is Microsoft Retiring Its Free Windows 10 Upgrade Program? Find Out Here</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/microsofts-subtle-update-sparks-major-backlash-among-users-technews/"><u>Microsoft's Subtle Update Sparks Major Backlash Among Users | TechNews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/new-fee-alert-microsoft-plans-to-charge-for-windows-10-updates-from-next-year-cost-breakdown-zdnet/"><u>New Fee Alert: Microsoft Plans to Charge for Windows 10 Updates From Next Year - Cost Breakdown | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/next-gen-law-practice-boost-how-microsoft-copilot-enhances-singapores-legal-tech-infrastructure-zdnet/"><u>Next-Gen Law Practice Boost: How Microsoft Copilot Enhances Singapore's Legal Tech Infrastructure | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prime-days-most-unbeatable-tech-discounts-on-amazon/"><u>Prime Day's Most Unbeatable Tech Discounts On Amazon</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x6-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X6 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/rebinding-your-macs-command-key-ultimate-tutorial-by-zdnet/"><u>Rebinding Your Mac's Command Key - Ultimate Tutorial by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-ring-pricing-strategies-expected-arrival-and-technical-specifications/"><u>Sneak Peek at the Samsung Galaxy Ring: Pricing Strategies, Expected Arrival & Technical Specifications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-transform-your-reddit-presence-with-these-tactics/"><u>[New] 2024 Approved Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exclusive-list-top-10-live-streaming-networks-ranked-for-2024/"><u>[New] Exclusive List Top 10 Live Streaming Networks Ranked for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT 3 FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-swap-out-your-logitech-mouses-original-receiver-for-another-one/"><u>How to Swap Out Your Logitech Mouse's Original Receiver for Another One</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-unload-chosen-pictures-once-theyre-uploaded-to-flipbuilder/"><u>Is It Possible to Unload Chosen Pictures Once They're Uploaded to FlipBuilder?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mastering-image-protection-adding-watermarks-using-flipbuilders-tools/"><u>Mastering Image Protection: Adding Watermarks Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/maximizing-conversions-boosting-website-visits-through-your-flipbuilder-brochures/"><u>Maximizing Conversions: Boosting Website Visits Through Your FlipBuilder Brochures</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/navigating-through-flipprograms-scenes-capabilities-and-constraints-a-comprehensive-guide/"><u>Navigating Through FlipPrograms' Scenes Capabilities and Constraints - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revamping-the-undead-a-comprehensive-7-days-to-die-game-overview/"><u>Revamping the Undead: A Comprehensive 7 Days to Die Game Overview</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/seamlessly-displaying-flipbuilder-pdfs-on-your-custom-webpage-ultimate-tutorial/"><u>Seamlessly Displaying FlipBuilder PDFs on Your Custom Webpage – Ultimate Tutorial</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-to-rearranging-your-photo-collection-on-flipbuildercom/"><u>Step-by-Step Guide to Rearranging Your Photo Collection on FlipBuilder.com</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Hot 40</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 

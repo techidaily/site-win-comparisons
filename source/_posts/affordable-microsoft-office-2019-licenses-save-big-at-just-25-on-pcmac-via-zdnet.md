@@ -1,7 +1,7 @@
 ---
 title: "Affordable Microsoft Office 2019 Licenses: Save Big at Just $25 on PC/Mac via ZDNet"
-date: 2024-09-28T18:36:51.735Z
-updated: 2024-10-02T16:21:04.450Z
+date: 2024-10-06T16:14:03.560Z
+updated: 2024-10-08T16:09:23.346Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +159,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +208,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>[New] In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-playback-speed/"><u>[Updated] In 2024, Boosting Vimeo Playback Speed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-access-to-csr-bluetooth-chip-drivers-start-your-download-today/"><u>Easy Access to CSR Bluetooth Chip Drivers - Start Your Download Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-online-cr2-to-jpg-converter-by-movavi/"><u>Free Online CR2 to JPG Converter by Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/fresh-changes-on-the-horizon-microsofts-next-move-for-windows-updates-coverage-by-zdnet/"><u>Fresh Changes on the Horizon: Microsoft's Next Move for Windows Updates Coverage by ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-premier-iphone-tone-producers/"><u>In 2024, Ultimate List Premier iPhone Tone Producers</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/microsoft-explores-ai-powered-chatbots-for-enhanced-xbox-customer-care-learn-the-mechanics/"><u>Microsoft Explores AI-Powered Chatbots for Enhanced Xbox Customer Care - Learn the Mechanics!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/um-live-streaming-system-expertly-chosen-equipment-lists-for-youtubers-for-2024/"><u>Premium Live Streaming System Expertly Chosen Equipment Lists for YouTubers for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-tutorial-customizing-your-macs-command-key-functionality-with-ease/"><u>Ultimate Tutorial: Customizing Your Mac's Command Key Functionality with Ease</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/upgrade-your-pc-now-windows-11-versions-21h2-and-22h2-hit-end-of-life-patch-immediately-to-avoid-security-risks/"><u>Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/vrchat-wont-start-discover-proven-fixes-and-get-back-to-gaming-immediastere/"><u>VRChat Won't Start? Discover Proven Fixes and Get Back to Gaming Immediastere!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-convenient-ways-to-archive-your-insta-story/"><u>[New] 2024 Approved Convenient Ways to Archive Your Insta Story</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-prime-shopping-destinations-customizable-presents-with-flair/"><u>[New] 2024 Approved Prime Shopping Destinations Customizable Presents with Flair</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mosaicmaker-elite-designing-with-digital-threads-for-2024/"><u>[New] MosaicMaker Elite Designing with Digital Threads for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion/"><u>[Updated] Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-how-to-stream-youtube-content-with-your-roku-device-two-easy-techniques/"><u>1. How to Stream YouTube Content with Your Roku Device: Two Easy Techniques</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/access-spankwire-video-downloads-for-both-mac-os-and-windows-users/"><u>Access Spankwire Video Downloads for Both Mac OS & Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-expert-advice-on-solving-pc-instability-for-guardians-of-the-galaxy-fans/"><u>Enhancing Performance: Expert Advice on Solving PC Instability for Guardians of the Galaxy Fans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-shoot-to-spectacle-editing-techniques-for-drones/"><u>From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/the-ultimate-handbook-for-professionals-unlock-the-potential-of-flip-office-suite-discover-at-flipbuildercom/"><u>The Ultimate Handbook for Professionals: Unlock the Potential of Flip Office Suite [Discover at FlipBuilder.com]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-premier-rv-models-leading-motor-homes-and-camping-trailers-reviewed-by-techexpert/"><u>Top 5 Premier RV Models - Leading Motor Homes & Camping Trailers Reviewed by TechExpert</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transform-your-text-into-beautiful-design-elements-for-digital-brochures-on-flipbuilder/"><u>Transform Your Text Into Beautiful Design Elements for Digital Brochures on FlipBuilder</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-enable-full-screen-viewing-of-flipbooks-on-flipbuildercom/"><u>Ultimate Guide: Enable Full-Screen Viewing of FlipBooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/unable-to-retrieve-your-file-on-flipbuilder-solutions-for-smooth-access/"><u>Unable to Retrieve Your File on FlipBuilder? Solutions for Smooth Access</u></a></li>
 </ul></div>
 

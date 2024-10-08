@@ -1,7 +1,7 @@
 ---
 title: "Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet"
-date: 2024-09-28T04:54:44.522Z
-updated: 2024-10-03T09:59:52.447Z
+date: 2024-10-02T16:13:53.368Z
+updated: 2024-10-08T17:11:39.940Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -61,24 +54,31 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -92,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -105,16 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -162,16 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-securecam-covers-top-10-picks-for-peace-of-mind-for-2024/"><u>[New] SecureCam Covers Top 10 Picks for Peace of Mind for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-ultimate-guide-edit-your-images-online-with-advanced-background-replacement-features/"><u>1. Ultimate Guide: Edit Your Images Online with Advanced Background Replacement Features</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/diy-captioning-tips-how-to-annotate-pictures-on-instagram/"><u>DIY Captioning Tips: How to Annotate Pictures on Instagram</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-seamlessly-removing-persons-in-photographs-with-editing-software/"><u>Expert Tips for Seamlessly Removing Persons in Photographs with Editing Software</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-8-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 8 in the Best Ways</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-backchannel-bridge-engaging-with-your-audience/"><u>In 2024, The Backchannel Bridge Engaging with Your Audience</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/maximize-your-viewing-experience-eliminate-iphone-x-notch-and-stream-seamlessly-to-pc/"><u>Maximize Your Viewing Experience: Eliminate iPhone X Notch & Stream Seamlessly to PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube/"><u>Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/quick-tips-for-rapid-resizing-of-fonts-within-a-pdf-file/"><u>Quick Tips for Rapid Resizing of Fonts Within a PDF File</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-record-video-with-logitech-webcam-guide-for-2024/"><u>[New] Record Video with Logitech Webcam [Guide] for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-forza-horizon-5-fps-drops-on-pc/"><u>[SOLVED] Forza Horizon 5 FPS Drops on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-notes-an-introduction-to-youtube-list-making/"><u>[Updated] Navigating Notes An Introduction to YouTube List Making</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-essential-meme-blueprints/"><u>2024 Approved 10 Essential Meme Blueprints</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cracking-comics-the-essential-guide-to-meme-magic/"><u>Cracking Comics The Essential Guide to Meme Magic</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/fresh-changes-on-the-horizon-microsofts-next-move-for-windows-updates-coverage-by-zdnet/"><u>Fresh Changes on the Horizon: Microsoft's Next Move for Windows Updates Coverage by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-icloud-not-updating-your-devices-effectively/"><u>How to Resolve iCloud Not Updating Your Devices Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-note-50-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Note 50 Phone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/rebinding-your-macs-command-key-ultimate-tutorial-by-zdnet/"><u>Rebinding Your Mac's Command Key - Ultimate Tutorial by ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-instagram-reels-audio-extractors-choose-the-best-one/"><u>Top 4 Instagram Reels Audio Extractors - Choose the Best One!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/upgrade-your-pc-now-windows-11-versions-21h2-and-22h2-hit-end-of-life-patch-immediately-to-avoid-security-risks/"><u>Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks</u></a></li>
 </ul></div>
 

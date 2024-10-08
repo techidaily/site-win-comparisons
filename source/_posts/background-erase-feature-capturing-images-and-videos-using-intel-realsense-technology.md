@@ -1,7 +1,7 @@
 ---
 title: "Background Erase Feature: Capturing Images & Videos Using Intel RealSense Technology"
-date: 2024-10-02T04:30:25.277Z
-updated: 2024-10-03T04:32:20.438Z
+date: 2024-10-03T16:36:37.962Z
+updated: 2024-10-08T16:04:58.692Z
 tags:
   - product
 categories:
@@ -58,16 +58,10 @@ Requirements for using webcam background removal with Intel® RealSense™:
 [Download Action! with Intel® RealSense™ support](https://tools.techidaily.com/mirillis/products/)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select webcam device to be added to gameplay recording 
@@ -77,10 +71,17 @@ Requirements for using webcam background removal with Intel® RealSense™:
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_select_webcam_intel_realsense.jpg "Select webcam device to be added to gameplay recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open Webcam Settings 
@@ -90,10 +91,10 @@ Requirements for using webcam background removal with Intel® RealSense™:
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings_intel_realsense.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Webcam recording settings and preview 
@@ -103,13 +104,6 @@ Requirements for using webcam background removal with Intel® RealSense™:
  Check preview to see how your webcam will look like in final video recording. Adjust webcam size and position using "Draggable mode". 
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_intel_realsense_setup.jpg "Webcam settings") 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make a gameplay recording 
 
@@ -130,17 +124,19 @@ Requirements for using webcam background removal with Intel® RealSense™:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[Updated] Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-palette-prestige-highlighting-10-free-mac-compatible-art-tools-for-2024/"><u>[Updated] Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered-for-2024/"><u>[Updated] The Ultimate iPhone Photography Playbook Prime Angles Uncovered for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-takes-an-immediate-hit-exploring-italys-overnight-prohibition-explained/"><u>ChatGPT Takes an Immediate Hit: Exploring Italy's Overnight Prohibition Explained</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/como-cambiar-video-mpeg-a-vob-sin-costo-alguno-usando-la-herramienta-en-linea-de-convertidor-movavi/"><u>Cómo Cambiar Video MPEG a VOB Sin Costo Alguno Usando La Herramienta en Línea De Convertidor Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-seamlessly-removing-persons-in-photographs-with-editing-software/"><u>Expert Tips for Seamlessly Removing Persons in Photographs with Editing Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-tips-for-transforming-photographs-into-dynamic-video-content/"><u>Expert Tips for Transforming Photographs Into Dynamic Video Content</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>In 2024, Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/quick-tips-for-rapid-resizing-of-fonts-within-a-pdf-file/"><u>Quick Tips for Rapid Resizing of Fonts Within a PDF File</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-mastering-your-htc-ones-data-restoration-using-top-htc-one-recovery-software/"><u>Step-by-Step Guide: Mastering Your HTC One's Data Restoration Using Top HTC One Recovery Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-winning-approach-to-saving-twitters-humor/"><u>[New] Winning Approach to Saving Twitter's Humor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-affordable-minecraft-video-graphics/"><u>[Updated] In 2024, Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gpeditmsc-not-found-error-in-windows-10-home-edition-systems/"><u>Fixing 'gpedit.msc Not Found' Error in Windows 10 Home Edition Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-animation-in-instagram-stories-a-step-by-step-guide-for-2024/"><u>Mastering Animation in Instagram Stories A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/new-fee-alert-microsoft-plans-to-charge-for-windows-10-updates-from-next-year-cost-breakdown-zdnet/"><u>New Fee Alert: Microsoft Plans to Charge for Windows 10 Updates From Next Year - Cost Breakdown | ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-8-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 8</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/next-gen-law-practice-boost-how-microsoft-copilot-enhances-singapores-legal-tech-infrastructure-zdnet/"><u>Next-Gen Law Practice Boost: How Microsoft Copilot Enhances Singapore's Legal Tech Infrastructure | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-connectivity-woes-the-ultimate-guide-to-windows-11-bluetooth-driver-fixes/"><u>Overcoming Connectivity Woes: The Ultimate Guide to Windows 11 Bluetooth Driver Fixes</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/rebinding-your-macs-command-key-ultimate-tutorial-by-zdnet/"><u>Rebinding Your Mac's Command Key - Ultimate Tutorial by ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/upgrade-your-pc-now-windows-11-versions-21h2-and-22h2-hit-end-of-life-patch-immediately-to-avoid-security-risks/"><u>Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks</u></a></li>
 </ul></div>
 

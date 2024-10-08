@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your PC Now! Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Patch Immediately to Avoid Security Risks
-date: 2024-09-30T04:46:51.041Z
-updated: 2024-10-03T08:03:43.055Z
+date: 2024-10-07T16:33:55.857Z
+updated: 2024-10-08T16:21:11.633Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-obs-installation-and-usage-on-mac-systems/"><u>[New] 2024 Approved Mastering OBS Installation and Usage on Mac Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-grab-your-guiltless-film-endings-with-our-template-service/"><u>[Updated] Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-speedy-streams-start-here-snapchat-for-starters/"><u>[Updated] In 2024, Speedy Streams Start Here Snapchat for Starters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>2024 Approved Make Every Frame Count A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/affordable-microsoft-office-2019-licenses-save-big-at-just-25-on-pcmac-via-zdnet/"><u>Affordable Microsoft Office 2019 Licenses: Save Big at Just $25 on PC/Mac via ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/assessing-value-comparing-free-and-premium-chatgpt-services-zdnet-analysis/"><u>Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/exceptional-announcement-by-southwest-happy-updates-for-all-passengers-apart-from-the-tech-magnate/"><u>Exceptional Announcement by Southwest: Happy Updates For All Passengers Apart From the Tech Magnate</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>In 2024, Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/navigating-the-future-of-work-with-microsofts-latest-tech-savvy-gadgets-a-zdnet-perspective/"><u>Navigating the Future of Work with Microsoft's Latest Tech-Savvy Gadgets: A ZDNet Perspective</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revitalizing-team-dynamics-microsoft-boosts-employee-engagement-with-enhanced-teams-features/"><u>Revitalizing Team Dynamics: Microsoft Boosts Employee Engagement with Enhanced Teams Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-prores-format-using-windows-11/"><u>Step-by-Step Guide: Transforming MP4 Videos Into ProRes Format Using Windows 11</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-brightening-the-windows-11-pointer/"><u>The Essential Guide to Brightening the Windows 11 Pointer</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-essential-steps-to-thrive-in-discord-livestreaming/"><u>The Essential Steps to Thrive in Discord Livestreaming</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-transferring-wmv-footage-into-final-cut-pro-expert-tips/"><u>Ultimate Guide: Transferring WMV Footage Into Final Cut Pro - Expert Tips</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/unlocking-new-features-the-benefits-and-process-of-switching-from-windows-home-to-pro-for-free/"><u>Unlocking New Features: The Benefits and Process of Switching From Windows Home to Pro for Free</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tricks-for-making-fb-ads-pop-up-on-screen-for-2024/"><u>[New] Tricks for Making FB Ads Pop Up on Screen for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-age-of-empires-unleashed-exploring-the-7-greatest-battles-for-2024/"><u>[Updated] Age of Empires Unleashed Exploring the 7 Greatest Battles for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-understanding-your-instagram-stories-visibility-for-2024/"><u>[Updated] Understanding Your Instagram Stories Visibility for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/find-your-perfect-youtube-substitute-on-macwindows-with-allavsoft-the-ultimate-guide-to-seamless-video-experience/"><u>Find Your Perfect YouTube Substitute on Mac/Windows with Allavsoft – The Ultimate Guide to Seamless Video Experience!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-your-niche-a-guide-for-career-development-in-designing/"><u>Finding Your Niche A Guide for Career Development in Designing</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/get-your-favorite-episodes-instantly-from-solarmovie-downloader-for-tv-and-movies/"><u>Get Your Favorite Episodes Instantly From Solarmovie Downloader for TV and Movies</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-on-converting-investopedia-video-content-into-various-formats-like-mp4-and-mov/"><u>Guide on Converting Investopedia Video Content Into Various Formats Like MP4 & MOV</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-to-converting-learnvray-videos-into-mp4-and-avi-formats/"><u>Guide to Converting LearnVray Videos Into MP4 & AVI Formats</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-converting-zumba-workouts-save-as-mp4-avi-or-mov-on-pc-and-mac/"><u>Guide: Converting Zumba Workouts - Save as MP4, AVI or MOV on PC & Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-11-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 11 5G FRP?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-download-ooyala-videos-and-song-tracks-on-pc-or-mac/"><u>How to Download Ooyala Videos & Song Tracks on PC or Mac</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-securely-get-your-favorite-nico-content-on-both-macs-and-pcs/"><u>How To Securely Get Your Favorite Nico Content on Both Macs and PCs!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-isprings-screencap-capabilities/"><u>In 2024, Exploring iSpring's Screencap Capabilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone X</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>In 2024, OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-sync-up-your-streams-zooming-into-facebook-lives/"><u>In 2024, Sync Up Your Streams Zooming Into Facebook Lives</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/itunes-or-media-player-how-to-transfer-bbc-audio-podcasts-onto-an-ipod-via-macwindows/"><u>ITunes or Media Player?: How to Transfer BBC Audio Podcasts Onto an iPod via Mac/Windows</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/macprovideo-extraction-and-conversion-convert-your-videos-to-mp4-mov-or-avi-formats/"><u>MacProVideo Extraction & Conversion: Convert Your Videos to MP4, MOV, or AVI Formats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/squashing-social-media-smears-with-grace-for-2024/"><u>Squashing Social Media Smears with Grace for 2024</u></a></li>
 </ul></div>
 

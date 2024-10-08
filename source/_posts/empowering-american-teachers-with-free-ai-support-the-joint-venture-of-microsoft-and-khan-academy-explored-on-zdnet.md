@@ -1,7 +1,7 @@
 ---
 title: "Empowering American Teachers with Free AI Support: The Joint Venture of Microsoft & Khan Academy Explored on ZDNet"
-date: 2024-09-25T16:01:48.656Z
-updated: 2024-10-03T08:11:42.115Z
+date: 2024-10-01T17:09:55.585Z
+updated: 2024-10-08T17:17:09.568Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,21 +122,41 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-depth-analysis-our-selection-of-premium-21-hdmi-tvs-for-2024/"><u>[Updated] In-Depth Analysis Our Selection of Premium 2.1 HDMI TVs for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tiktok-linking-made-simple-and-irreversible/"><u>[Updated] TikTok Linking Made Simple and Irreversible</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-intel-8259v-graphics-driver-at-no-cost-instant-guide/"><u>Download the Intel 8259V Graphics Driver at No Cost: Instant Guide</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-websites-data-collection-with-cookiebot-technology/"><u>Enhance Your Website's Data Collection with Cookiebot Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fixing-persistent-shutdown-errors-in-windows-11-systems/"><u>Guide to Fixing Persistent Shutdown Errors in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-note-30-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Note 30 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-t2-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo T2 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 15 Pro Max</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revoking-your-upgrade-transitioning-smoothly-from-windows-11-to-windows-ebuild-by-zdnet-beware-of-the-hidden-caveat/"><u>Revoking Your Upgrade: Transitioning Smoothly From Windows 11 to Windows Ebuild by ZDNet | Beware of the Hidden Caveat</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/seamless-file-sharing-from-pc-to-android-device-using-google-drive-a-step-by-step-guide/"><u>Seamless File Sharing From PC to Android Device Using Google Drive: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/seamless-login-utilizing-your-microsoft/"><u>Seamless Login: Utilizing Your Microsoft</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/shifting-from-windows-itunes-to-apples-upgraded-media-services-keep-your-library-intact/"><u>Shifting From Windows iTunes to Apple’s Upgraded Media Services? Keep Your Library Intact!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-discovering-your-dream-makeup-routine-with-youtubes-leaders-for-2024/"><u>[Updated] Discovering Your Dream Makeup Routine with YouTube's Leaders for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-get-inspired-from-top-10-recruitment-videos/"><u>[Updated] Get Inspired From Top 10 Recruitment Videos</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-create-personalized-ai-assistant-with-custom-copilot-gpt-expert-tutorial/"><u>1. Create Personalized AI Assistant with Custom Copilot GPT: Expert Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-idea-to-implementation-guiding-vendors-in-youtube-sponsorships/"><u>2024 Approved From Idea to Implementation Guiding Vendors in Youtube Sponsorships</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagram-top-borders-and-frames-for-perfect-photos/"><u>2024 Approved Mastering Instagram Top Borders & Frames for Perfect Photos</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/achieve-crystal-clear-hd-quality-in-games-by-leveraging-nvidias-nvenc-for-hevc-compression-technology/"><u>Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/affordable-tech-upgrade-alert-score-premium-microsoft-project-and-visio-pro-licenses-for-a-steal-at-only-20-hot-deal-featured-on-zdnet/"><u>Affordable Tech Upgrade Alert: Score Premium Microsoft Project and Visio Pro Licenses for a Steal at Only $20 – Hot Deal Featured on ZDNET!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/background-erase-feature-capturing-images-and-videos-using-intel-realsense-technology/"><u>Background Erase Feature: Capturing Images & Videos Using Intel RealSense Technology</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/expert-tips-and-tricks-your-complete-mirillis-course-companion/"><u>Expert Tips & Tricks - Your Complete MirilliS Course Companion</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-to-fixing-critical-error-104-a-step-by-step-solution-guide/"><u>Guide to Fixing Critical Error 104 – A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-engaging-podcasts-step-by-step-guide-with-free-examples/"><u>In 2024, Crafting Engaging Podcasts Step-by-Step Guide with Free Examples</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-paying-for-chatgpt-plus-advantageous-over-the-basic-version-a-zdnet-examination/"><u>Is Paying for ChatGPT Plus Advantageous Over the Basic Version? A ZDNet Examination</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-kids-movie-maker-handbook-tips-tricks-and-fun/"><u>New 2024 Approved The Kids Movie Maker Handbook Tips, Tricks, and Fun</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-movies-online-for-free-top-9-tools/"><u>New Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-common-issues-with-netflix-streaming-on-an-lg-set-top-box/"><u>Overcoming Common Issues with Netflix Streaming on an LG Set Top Box</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-transform-your-video-how-to-adjust-shape-and-size/"><u>Updated In 2024, Transform Your Video How to Adjust Shape and Size</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Customizing Your Mac's Command Key Functionality with Ease"
-date: 2024-09-27T16:01:50.748Z
-updated: 2024-10-03T07:35:25.005Z
+date: 2024-10-02T16:24:30.285Z
+updated: 2024-10-08T17:18:34.865Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -95,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-innovative-strategies-for-effective-macscreencasting/"><u>[New] 2024 Approved Innovative Strategies for Effective MacScreencasting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-youtube-content-manager-toolkit/"><u>[Updated] 2024 Approved Exploring the YouTube Content Manager Toolkit</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>[Updated] 2024 Approved Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-spectacular-top-5-slow-motion-cams-for-2024/"><u>[Updated] Spectacular Top 5 Slow Motion Cams for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>2024 Approved Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mirth-manual-best-free-meme-kits-alive/"><u>2024 Approved Mirth Manual Best Free Meme Kits Alive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/22-streamline-communication-leading-free-ai-email-services/"><u>22 Streamline Communication: Leading Free AI Email Services</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube-for-2024/"><u>Amplify Your Video Content with Precision Insights From Social Blade & YouTube for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/converter-de-gratis-online-para-imagens-apng-aplicativo-facil-e-eficiente-do-movavi/"><u>Converter De Grátis Online Para Imagens Apng - Aplicativo Fácil E Eficiente Do Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tecnicas-facilmente-rentables-para-comprimir-videos-en-formato-avi-con-la-herramienta-de-compresion-de-movavi/"><u>Técnicas Fácilmente Rentables Para Comprimir Vídeos en Formato AVI Con La Herramienta De Compresión De Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/trier-un-fichier-ts-au-format-vob-sur-votre-ordinateur-gratuitement-avec-movavi/"><u>Trier Un Fichier Ts Au Format Vob Sur Votre Ordinateur Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/free-qt-to-wmv-movavi/"><u>オンラインで行うFREE QT to WMV ビデオ変換: Movaviの使いやすいツール選び方</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>[New] 2024 Approved Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-hidden-narrators-of-fb-nuggets/"><u>[Updated] Hidden Narrators of FB Nuggets</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-expert-advice-how-to-capture-your-iphone-or-ipads-display-like-a-pro/"><u>1. Expert Advice: How to Capture Your iPhone or iPad's Display Like a Pro</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-guide-to-enable-and-view-flv-content-seamlessly-on-android-platforms/"><u>Complete Guide to Enable & View FLV Content Seamlessly on Android Platforms</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/complete-step-by-step-tutorial-mastering-pc-auto-chess-strategies/"><u>Complete Step-by-Step Tutorial: Mastering PC Auto Chess Strategies</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/enhance-your-storytelling-with-text-in-instagram-videos-a-comprehensive-tutorial/"><u>Enhance Your Storytelling with Text in Instagram Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/explore-the-finest-no-cost-screen-recorder-applications-for-your-mac-computer/"><u>Explore the Finest No-Cost Screen Recorder Applications for Your Mac Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-v30t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme V30T</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-high-end-psd-lighting-tweaks/"><u>In 2024, High-End PSD Lighting Tweaks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-data-retrieval-tool-restore-lost-data-from-itel-by-fonelab-android-recover-data/"><u>Itel Data Retrieval tool – restore lost data from Itel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s18-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo S18</u></a></li>
+<li><a href="https://games-able.techidaily.com/modernizing-senior-support-systems-through-innovative-technologies-a-comprehensive-guide-by-zdnet/"><u>Modernizing Senior Support Systems Through Innovative Technologies – A Comprehensive Guide by ZDNET</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-mastering-your-htc-ones-data-restoration-using-top-htc-one-recovery-software/"><u>Step-by-Step Guide: Mastering Your HTC One's Data Restoration Using Top HTC One Recovery Software</u></a></li>
 </ul></div>
 

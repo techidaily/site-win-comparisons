@@ -1,7 +1,7 @@
 ---
 title: Status of Microsoft's Promise for a Complimentary Windows 11 Update
-date: 2024-09-30T06:46:57.313Z
-updated: 2024-10-02T18:25:48.303Z
+date: 2024-10-03T16:19:31.342Z
+updated: 2024-10-08T16:56:45.147Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-secrets-to-keeping-online-interactions-safe/"><u>[New] In 2024, Secrets to Keeping Online Interactions Safe</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-amplify-your-youtubes-interaction-with-emojis-for-2024/"><u>[Updated] Amplify Your Youtubes' Interaction with Emojis for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-the-multi-stream-experience-on-netflix-for-2024/"><u>[Updated] Navigating the Multi-Stream Experience on Netflix for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-step-by-step-guide-converting-avi-files-to-mp4-format-quickly-and-effectively/"><u>1. Step-by-Step Guide: Converting AVI Files to MP4 Format Quickly and Effectively</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>Breaking the Mold How to Create a Standout YouTube Channel Name</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cardboard-contrast-google-to-samsung-gear-headset/"><u>Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/catch-the-microsoft-surface-and-windows-ai-event-live-what-to-anticipate-zdnet-updates/"><u>Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/create-your-personalized-copilot-gpt-a-step-by-step-guide/"><u>Create Your Personalized Copilot GPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/downgrade-dilemma-transitioning-from-windows-11-to-windows-10-what-you-need-to-know-hidden-caveats-expert-advice-on-zdnet/"><u>Downgrade Dilemma: Transitioning From Windows 11 to Windows 10 – What You Need to Know (Hidden Caveats) | Expert Advice on ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/empowering-american-teachers-with-free-ai-support-the-joint-venture-of-microsoft-and-khan-academy-explored-on-zdnet/"><u>Empowering American Teachers with Free AI Support: The Joint Venture of Microsoft & Khan Academy Explored on ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/hands-on-review-enhance-your-surface-duo-2-with-durable-pen-cover-and-wireless-charging-features-insights-from-zdnet/"><u>Hands-On Review: Enhance Your Surface Duo 2 with Durable Pen Cover & Wireless Charging Features - Insights From ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-microsofts-new-250-surface-laptop-se-and-windows-11-se-are-revolutionizing-education-insights-from-zdnet/"><u>How Microsoft's New $250 Surface Laptop SE and Windows 11 SE Are Revolutionizing Education - Insights From ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/microsoft-unveils-windows-strategy-driving-the-evolution-of-hybrid-workspaces-technews/"><u>Microsoft Unveils Windows Strategy Driving the Evolution of Hybrid Workspaces | TechNews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-for-cleaning-out-nonessential-software-on-your-windows-10-system-techradar/"><u>Step-by-Step Tutorial for Cleaning Out Nonessential Software on Your Windows 10 System | TechRadar</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/tips-to-improve-zooms-facebook-live-functionality/"><u>Tips to Improve Zoom's Facebook Live Functionality</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[New] Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-fields-with-virtual-reality/"><u>[New] Revolutionizing Fields with Virtual Reality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comprehensive-tutorial-for-effective-screen-recording/"><u>[Updated] 2024 Approved Comprehensive Tutorial for Effective Screen Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-professionals-choice-top-10-ig-video-editing-platforms/"><u>[Updated] 2024 Approved Professionals' Choice Top 10 IG Video Editing Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-screen-recorders-for-the-web/"><u>[Updated] Professional Screen Recorders for the Web</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quickening-vimeo-media-load-times-for-2024/"><u>[Updated] Quickening Vimeo Media Load Times for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlined-process-to-download-parts-from-youtube-videos/"><u>[Updated] Streamlined Process to Download Parts From YouTube Videos</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discover-the-most-efficient-cydia-downloader-substitutes-for-mac-and-pc-enthusiasts/"><u>Discover the Most Efficient Cydia Downloader Substitutes for Mac and PC Enthusiasts</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discover-the-top-5-edtech-platforms-comparable-to-udemy-for-lifelong-learners/"><u>Discover the Top 5 EdTech Platforms Comparable to Udemy for Lifelong Learners</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/download-and-format-converter-for-the-wall-street-journal-transforming-clips-into-mp4-mov-and-avi/"><u>Download and Format Converter for The Wall Street Journal: Transforming Clips Into MP4, MOV & AVI</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/download-full-episodes-of-disney-xd-online-for-free-on-watchdisneyxd-website/"><u>Download Full Episodes of Disney XD Online for Free on WatchDisneyXD Website</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-guide-to-capture-and-convert-tnt-streams-into-mp4avi-formats-using-our-cross-platform-downloader-app/"><u>Easy Guide to Capture and Convert TNT Streams Into MP4/AVI Formats Using Our Cross-Platform Downloader App</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-methods-for-transforming-your-vidlii-videos-into-diverse-file-types-including-mp4-avi-and-mov/"><u>Easy Methods for Transforming Your VidLii Videos Into Diverse File Types Including MP4, AVI & MOV</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-mp4-conversion-and-download-of-x-rated-videos-from-reality-kings-with-the-reality-kings-video-extractor-tool/"><u>Easy MP4 Conversion and Download of X-Rated Videos From Reality Kings with the Reality Kings Video Extractor Tool</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easytv-downloader-securely-grab-your-favorite-episodes-from-couchtuner/"><u>EasyTV Downloader: Securely Grab Your Favorite Episodes From CouchTuner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-advice-on-constructing-a-personal-computer-from-scratch/"><u>Step-by-Step Advice on Constructing a Personal Computer From Scratch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

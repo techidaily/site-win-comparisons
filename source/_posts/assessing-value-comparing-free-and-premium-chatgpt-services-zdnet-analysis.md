@@ -1,7 +1,7 @@
 ---
 title: "Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis"
-date: 2024-09-26T22:43:56.068Z
-updated: 2024-10-03T09:31:38.260Z
+date: 2024-10-06T16:32:38.873Z
+updated: 2024-10-08T17:11:42.246Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,18 +129,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## **Ignore it and keep running Windows 10** 
+
+Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
 <span id="1983472">
@@ -154,10 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## **Ignore it and keep running Windows 10** 
-
-Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 ## **Conclusion**
 
@@ -202,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-better-facebook-video-ads/"><u>[New] How to Make Better Facebook Video Ads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-androids-top-video-recording-options-5-excellent-picks/"><u>[Updated] Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-online-presence-making-videos-on-mobile/"><u>[Updated] In 2024, Elevate Your Online Presence Making Videos on Mobile</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-tactics-capturing-high-quality-sports-streams-online/"><u>[Updated] In 2024, Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/achieve-crystal-clear-hd-quality-in-games-by-leveraging-nvidias-nvenc-for-hevc-compression-technology/"><u>Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-powerful-storytelling-through-screencasts/"><u>In 2024, Unlocking Powerful Storytelling Through Screencasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-mystery-behind-apples-m1-chip/"><u>In 2024, Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/professionelle-audiodaten-aus-dvds-in-wav-oder-mp3-exportieren-gratis-mac-software-zum-extrahieren/"><u>Professionelle Audiodaten Aus DVDs in .wav Oder MP3 Exportieren - Gratis-Mac-Software Zum Extrahieren</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-repairing-and-restoring-functionality-to-your-xbox-series-console-headphones/"><u>Step-by-Step Guide: Repairing and Restoring Functionality to Your Xbox Series Console Headphones</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-instructions-for-securing-hd-versions-of-padman-film-and-previews/"><u>Step-by-Step Instructions for Securing HD Versions of PadMan Film and Previews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-downloading-and-transforming-videos-from-videahu-into-mp4-on-mac-os-and-window-systems/"><u>Step-by-Step Tutorial on Downloading and Transforming Videos From Videa.hu Into MP4 on MAC OS & Window Systems</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/steps-for-downloading-medical-training-footage-from-the-spear-education-platform/"><u>Steps for Downloading Medical Training Footage From the Spear Education Platform</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-youtube-replacement-options-for-mac-and-windows-users-discover-allavsofts-superior-solution/"><u>Top YouTube Replacement Options for Mac & Windows Users: Discover Allavsoft's Superior Solution</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-tutorial-capturing-and-saving-shows-from-blip-tv-for-windows-and-macos-users/"><u>Ultimate Tutorial: Capturing and Saving Shows From Blip TV for Windows and macOS Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-boost-your-tiktok-game-best-free-edits-for-mac-users-top-10/"><u>[New] In 2024, Boost Your TikTok Game - Best Free Edits for Mac Users (Top 10)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chat-enhancement-course-turning-your-graphics-into-social-media-stickers/"><u>2024 Approved Chat Enhancement Course Turning Your Graphics Into Social Media Stickers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-melding-images-and-songs-into-screens/"><u>2024 Approved Melding Images and Songs Into Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/movavi-m4amp3wav/"><u>免費在線取得Movavi M4A編解碼器，便利MP3/WAV改善 - 全球最佳媒體服務</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/best-playback-software-for-vob-format-video-streaming-on-pc-and-mac-comprehensive-guide-to-movavi-converter/"><u>Best Playback Software for VOB Format Video Streaming on PC and Mac - Comprehensive Guide to Movavi Converter</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/converte-i-file-m4a-in-formato-mov-gratuitamente-on-line-con-convertitore-di-movavi/"><u>Converte I File M4A in Formato MOV Gratuitamente On-Line Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-languages-through-augmented-reality-mondlys-way/"><u>Discover Languages Through Augmented Reality - Mondly's Way</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-corrupted-image-display-in-windows-1110-environments/"><u>Expert Tips for Dealing with Corrupted Image Display in Windows 11/10 Environments</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-tirer-et-retourner-des-images-a-laide-de-movavi/"><u>Guide Facile Pour Tirer Et Retourner Des Images À L'aide De Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-your-go-to-guide-to-exceptional-4k-mirrorless-cameras/"><u>In 2024, Your Go-To Guide to Exceptional 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microphone-problems-in-the-corsair-hs50-headset-fixes-and-tips/"><u>Resolving Microphone Problems in the Corsair HS50 Headset - Fixes & Tips</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-vergoed-vrije-foto-samenvoegen-software-best-gereedschap-voor-online-and-desktops/"><u>Top Vergoed Vrije Foto Samenvoegen Software: Best Gereedschap Voor Online & Desktops</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/transformacion-libre-y-gratuita-de-video-f4v-a-flash-swf-con-movavi-online/"><u>Transformación Libre Y Gratuita De Video F4V a Flash (SWF) Con Movavi Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/vervangen-van-wmv-in-wav-met-een-gratuite-online-service-van-movavi-expertise-voor-audioconversie/"><u>Vervangen Van WMV in WAV Met Een Gratuite Online Service Van Movavi - Expertise Voor Audioconversie</u></a></li>
 </ul></div>
 

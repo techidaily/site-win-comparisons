@@ -1,7 +1,7 @@
 ---
 title: "1. Create Personalized AI Assistant with Custom Copilot GPT: Expert Tutorial"
-date: 2024-10-02T05:18:01.681Z
-updated: 2024-10-03T00:37:39.473Z
+date: 2024-10-04T16:28:07.734Z
+updated: 2024-10-08T16:47:21.667Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-make-any-fb-video-pop-with-full-screen-mode/"><u>[New] How to Make Any FB Video Pop with Full-Screen Mode</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>2024 Approved Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-with-these-simple-fixes-for-disco-elysium-on-pc/"><u>Enhance Your Gaming with These Simple Fixes for 'Disco Elysium' On PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/hack-your-pc-enable-windows-11-installation-on-unsupported-chips/"><u>Hack Your PC: Enable Windows 11 Installation on Unsupported Chips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-uniting-video-worlds-youtube-meets-tiktok/"><u>In 2024, Uniting Video Worlds YouTube Meets TikTok</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-unload-chosen-pictures-once-theyre-uploaded-to-flipbuilder/"><u>Is It Possible to Unload Chosen Pictures Once They're Uploaded to FlipBuilder?</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mastering-image-protection-adding-watermarks-using-flipbuilders-tools/"><u>Mastering Image Protection: Adding Watermarks Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/maximizing-conversions-boosting-website-visits-through-your-flipbuilder-brochures/"><u>Maximizing Conversions: Boosting Website Visits Through Your FlipBuilder Brochures</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/navigating-through-flipprograms-scenes-capabilities-and-constraints-a-comprehensive-guide/"><u>Navigating Through FlipPrograms' Scenes Capabilities and Constraints - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-diy-with-advanced-technology-anticipating-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Advanced Technology: Anticipating the Arrival of GPT-4</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/seamlessly-displaying-flipbuilder-pdfs-on-your-custom-webpage-ultimate-tutorial/"><u>Seamlessly Displaying FlipBuilder PDFs on Your Custom Webpage – Ultimate Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-strategies-how-to-create-stellar-youtube-shorts/"><u>[New] Step-by-Step Strategies How to Create Stellar YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[Updated] 2024 Approved Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenshots-and-beyond-advanced-screen-recording-for-apple-products/"><u>[Updated] 2024 Approved Screenshots & Beyond Advanced Screen Recording for Apple Products</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-5-high-resolution-film-makers/"><u>2024 Approved Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-balanced-overview-of-chatgpt-plus-weighing-its-positives-against-its-negatives/"><u>A Balanced Overview of ChatGPT Plus - Weighing Its Positives Against Its Negatives</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/best-alternatives-to-mp3skull-for-free-music-downloads/"><u>Best Alternatives to MP3Skull for Free Music Downloads</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/conexao-jpeg-para-bmp-online-gratuito-ferramenta-de-conversao-da-movavi/"><u>Conexão JPEG Para BMP Online Gratuito - Ferramenta De Conversão Da Movavi</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/descargar-e-importar-vob-a-mkv-sin-problemas-guia-completa-de-convertidor-online-libre/"><u>Descargar E Importar VOB a MKV Sin Problemas: Guía Completa De Convertidor Online Libre</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/gora-movavis-fraktpolisen-och-aterbaringspolitiken-en-lattlasbar-uppsat/"><u>Göra Movavis Fraktpolisen Och Återbäringspolitiken en Lättläsbar Uppsåt</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peakquality-resizer-cross-platform-edition/"><u>In 2024, PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instant-success-with-brother-printer-setup-a-fast-guide/"><u>Instant Success with Brother Printer Setup: A Fast Guide</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/iphone-xs-to-pc-syncing-made-easy-a-comprehensive-how-to/"><u>IPhone XS to PC Syncing Made Easy: A Comprehensive How-To</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/leading-image-clarity-solutions-best-apps-to-fix-unclear-pics-on-smartphones-androidios/"><u>Leading Image Clarity Solutions: Best Apps to Fix Unclear Pics on Smartphones (Android/iOS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-and-understanding-shared-link-concept-in-gpt-3/"><u>Navigating and Understanding Shared Link Concept in GPT-3</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-no-cost-substitutes-for-mackeeper-effective-data-restoration-tools-for-both-mac-and-pc/"><u>Top No-Cost Substitutes for Mackeeper: Effective Data Restoration Tools for Both Mac & PC</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-reliable-free-download-music-websites-a-comprehensive-list/"><u>Top Reliable Free Download Music Websites - A Comprehensive List</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
 </ul></div>
 

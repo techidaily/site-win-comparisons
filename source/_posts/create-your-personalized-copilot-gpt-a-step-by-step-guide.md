@@ -1,7 +1,7 @@
 ---
 title: "Create Your Personalized Copilot GPT: A Step-by-Step Guide"
-date: 2024-09-30T08:38:06.038Z
-updated: 2024-10-03T09:26:29.924Z
+date: 2024-10-07T16:56:26.246Z
+updated: 2024-10-08T17:22:12.949Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-tamiltunes-handbook-downloading-and-trimming-melodies-for-calls/"><u>[New] TamilTunes Handbook Downloading & Trimming Melodies for Calls</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-igtv-potential-tips-and-strategies-for-2024/"><u>[New] Unlocking IGTV Potential Tips & Strategies for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/10-update-services-in-the-coming-year-what-you-need-to-know/"><u>10 Update Services in the Coming Year – What You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/amazons-exit-from-windows-11-marketplace-as-microsoft-takes-action/"><u>Amazon's Exit From Windows 11 Marketplace as Microsoft Takes Action</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/breaking-news-will-you-have-to-pay-for-windows-10-updates-find-out-what-microsoft-plans-and-pricing-details/"><u>Breaking News: Will You Have to Pay for Windows 10 Updates? Find Out What Microsoft Plans and Pricing Details!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/debunking-macos-myths-for-windows-enthusiasts-a-detailed-analysis-by-zdnet/"><u>Debunking macOS Myths for Windows Enthusiasts – A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/decade-long-tradition-shifts-the-evolution-of-the-windows-keyboard-by-microsoft-featured-on-zdnet/"><u>Decade-Long Tradition Shifts: The Evolution of the Windows Keyboard by Microsoft, Featured on ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/engage-in-enlightening-youtube-exchanges/"><u>Engage in Enlightening YouTube Exchanges</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-converte-facilmente-i-file-wma-in-formati-multipli-gratuitamente/"><u>Movavi: Converte Facilmente I File WMA in Formati Multipli Gratuitamente</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-frequent-pc-shutdowns-while-playing-overwatch-2/"><u>Overcoming Frequent PC Shutdowns While Playing Overwatch 2</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-popularity-on-platforms-elevating-your-youtube-profile-for-2024/"><u>Pursuing Popularity on Platforms Elevating Your Youtube Profile for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a58-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A58 4G Location | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-rated-standing-desk-seating-options-best-wobble-stools-and-chairs-in-202/"><u>Top-Rated Standing Desk Seating Options: Best Wobble Stools & Chairs in 202</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/zdnets-top-picks-superior-standing-desk-attachment-units-reviewed/"><u>ZDNET's Top Picks: Superior Standing Desk Attachment Units Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>[New] 2024 Approved Laughter Lab Top 7 Sketches & Vignettes for YouTubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-no-fuss-tactics-for-saving-vimeo-footage/"><u>[New] In 2024, No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-drone-balance-the-top-7-gimbals/"><u>[Updated] In 2024, Drone Balance The Top 7 Gimbals</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-download-ooyala-videos-and-song-tracks-on-pc-or-mac/"><u>How to Download Ooyala Videos & Song Tracks on PC or Mac</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-securely-get-your-favorite-nico-content-on-both-macs-and-pcs/"><u>How To Securely Get Your Favorite Nico Content on Both Macs and PCs!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Spark 10 Pro Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x8b-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X8b is off? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-gt-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme GT 5 Location | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/itunes-or-media-player-how-to-transfer-bbc-audio-podcasts-onto-an-ipod-via-macwindows/"><u>ITunes or Media Player?: How to Transfer BBC Audio Podcasts Onto an iPod via Mac/Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/leveraging-instagram-for-massive-audience-growth-for-2024/"><u>Leveraging Instagram for Massive Audience Growth for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/macprovideo-extraction-and-conversion-convert-your-videos-to-mp4-mov-or-avi-formats/"><u>MacProVideo Extraction & Conversion: Convert Your Videos to MP4, MOV, or AVI Formats</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-guide-on-how-to-download-videos-from-safaribooksonline/"><u>Quick Guide on How to Download Videos From SafariBooksOnline</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-on-saving-nasm-courses-as-various-audiovideo-files-for-easy-access/"><u>Step-by-Step Guide on Saving NASM Courses as Various Audio/Video Files for Easy Access</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-downloading-crunchyroll-episodes-for-offline-viewing-on-pcs-and-macs/"><u>Step-by-Step Guide: Downloading Crunchyroll Episodes for Offline Viewing on PCs & Macs</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-saving-milliyet-news-segments-as-mp4-files-on-pcs-and-macs/"><u>Step-by-Step Guide: Saving Milliyet News Segments as MP4 Files on PCs & Macs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wingraphicsdevicecreationfix-resolved-issue/"><u>WinGraphicsDeviceCreationFix - Resolved Issue</u></a></li>
 </ul></div>
 

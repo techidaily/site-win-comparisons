@@ -1,7 +1,7 @@
 ---
 title: Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates
-date: 2024-09-30T08:55:23.325Z
-updated: 2024-10-03T05:10:29.473Z
+date: 2024-10-06T17:21:36.708Z
+updated: 2024-10-08T16:57:00.372Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,16 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
+<span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -108,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -141,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,17 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-chart-topping-photos-origins-explored/"><u>[Updated] Chart-Topping Photos Origins Explored</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/assessing-value-comparing-free-and-premium-chatgpt-services-zdnet-analysis/"><u>Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/exceptional-announcement-by-southwest-happy-updates-for-all-passengers-apart-from-the-tech-magnate/"><u>Exceptional Announcement by Southwest: Happy Updates For All Passengers Apart From the Tech Magnate</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P55 5G FRP Locks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-fix-common-instagram-video-errors/"><u>In 2024, How to Fix Common Instagram Video Errors</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/navigating-the-future-of-work-with-microsofts-latest-tech-savvy-gadgets-a-zdnet-perspective/"><u>Navigating the Future of Work with Microsoft's Latest Tech-Savvy Gadgets: A ZDNet Perspective</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-ace-2-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Ace 2</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revitalizing-team-dynamics-microsoft-boosts-employee-engagement-with-enhanced-teams-features/"><u>Revitalizing Team Dynamics: Microsoft Boosts Employee Engagement with Enhanced Teams Features</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-tech-phoenix-apples-historic-powerbook-of-94-revived-equipped-with-an-ipad-display-and-2015-macbook-pro-core-internals-for-the-ultimate-vintage-modern-h17/"><u>The Tech Phoenix: Apple's Historic PowerBook of '94 Revived, Equipped with an iPad Display & 2015 MacBook Pro Core Internals for the Ultimate Vintage-Modern Hybrid Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/w64-mp3-movavi/"><u>W64 MP3ファイルを無料でオンライン変換: Movaviの簡単ガイド</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-facebook-live-with-dji-drones-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Facebook Live with DJI Drones A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-splitcams-camera-capabilities-for-2024/"><u>[New] Unveiling SplitCam's Camera Capabilities for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-hdr-power-play-is-sns-the-best-option/"><u>[Updated] HDR Power Play Is SNS the Best Option?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y100i-power-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y100i Power 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ephemeral-video-wizard-for-2024/"><u>Ephemeral Video Wizard for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/find-your-perfect-youtube-substitute-on-macwindows-with-allavsoft-the-ultimate-guide-to-seamless-video-experience/"><u>Find Your Perfect YouTube Substitute on Mac/Windows with Allavsoft – The Ultimate Guide to Seamless Video Experience!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/get-your-favorite-episodes-instantly-from-solarmovie-downloader-for-tv-and-movies/"><u>Get Your Favorite Episodes Instantly From Solarmovie Downloader for TV and Movies</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-on-converting-investopedia-video-content-into-various-formats-like-mp4-and-mov/"><u>Guide on Converting Investopedia Video Content Into Various Formats Like MP4 & MOV</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-to-converting-learnvray-videos-into-mp4-and-avi-formats/"><u>Guide to Converting LearnVray Videos Into MP4 & AVI Formats</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-converting-zumba-workouts-save-as-mp4-avi-or-mov-on-pc-and-mac/"><u>Guide: Converting Zumba Workouts - Save as MP4, AVI or MOV on PC & Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-fix-successful-non-operational-obs-camera/"><u>In 2024, Fix Successful Non-Operational OBS Camera</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/video-sneak-peek-a-guide-to-preview-content-effectively/"><u>Video Sneak Peek: A Guide to Preview Content Effectively</u></a></li>
 </ul></div>
 
