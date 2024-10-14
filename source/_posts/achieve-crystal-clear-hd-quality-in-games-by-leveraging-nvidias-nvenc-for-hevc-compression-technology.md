@@ -1,7 +1,7 @@
 ---
 title: Achieve Crystal-Clear HD Quality in Games by Leveraging NVIDIA's NVENC for HEVC Compression Technology
-date: 2024-10-02T16:20:43.325Z
-updated: 2024-10-08T16:18:08.625Z
+date: 2024-10-13T01:36:58.781Z
+updated: 2024-10-14T03:40:44.886Z
 tags:
   - product
 categories:
@@ -46,18 +46,18 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  NVIDIA NVENC acceleration for H.265/HEVC gameplay recording 
 
 **H.265/HEVC** gameplay recording to MP4 format with NVIDIA NVENC acceleration is available starting from **Action! 1.31.0**. Using **H.265/HEVC** with NVIDIA NVENC acceleration allows to record high quality, low bitrate, smooth gameplays producing **smaller gameplay recording files** compared to H.264/AVC.
 
  Please check NVIDIA NVENC system requirements below to see if your PC is ready to use NVIDIA NVENC accelerated H.265/HEVC encoding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  System Requirements for NVIDIA NVENC H.265/HEVC acceleration 
 
@@ -69,10 +69,10 @@ Action Tutorials
 * The latest Action! version
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting NVIDIA NVENC H.265/HEVC for gameplay recording
@@ -82,17 +82,17 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC gameplay recordings playback 
@@ -115,24 +115,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-discover-top-10-budget-friendly-high-quality-webcams/"><u>[New] Discover Top 10 Budget-Friendly, High-Quality Webcams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-gelato-gadgets-step-by-step-screen-capture-for-frozen-snacks/"><u>[New] Gelato Gadgets Step-by-Step Screen Capture for Frozen Snacks</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-create-personalized-ai-assistant-with-custom-copilot-gpt-expert-tutorial/"><u>1. Create Personalized AI Assistant with Custom Copilot GPT: Expert Tutorial</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>2024 Approved Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/affordable-tech-upgrade-alert-score-premium-microsoft-project-and-visio-pro-licenses-for-a-steal-at-only-20-hot-deal-featured-on-zdnet/"><u>Affordable Tech Upgrade Alert: Score Premium Microsoft Project and Visio Pro Licenses for a Steal at Only $20 – Hot Deal Featured on ZDNET!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721455832225-cant-send-texts-on-your-iphone-discover-10-essential-fixes/"><u>Can't Send Texts on Your iPhone? Discover 10 Essential Fixes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/el-boosting-mastery-unveiling-the-best-5-video-marketing-strategies/"><u>Channel Boosting Mastery Unveiling the Best 5 Video Marketing Strategies</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-tips-and-tricks-your-complete-mirillis-course-companion/"><u>Expert Tips & Tricks - Your Complete MirilliS Course Companion</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-to-fixing-critical-error-104-a-step-by-step-solution-guide/"><u>Guide to Fixing Critical Error 104 – A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/hesitant-about-the-leap-to-windows-11-discover-your-options-with-zdnet-guidance/"><u>Hesitant About the Leap to Windows 11? Discover Your Options with ZDNet Guidance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>In 2024, Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/introducing-microsofts-new-ai-tool-for-effortless-copying-and-pasting-learn-how-to-utilize-its-features-zdnet/"><u>Introducing Microsoft's New AI Tool for Effortless Copying and Pasting - Learn How to Utilize Its Features | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-13-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 13 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-microsoft-retiring-its-free-windows-10-upgrade-program-find-out-here/"><u>Is Microsoft Retiring Its Free Windows 10 Upgrade Program? Find Out Here</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-paying-for-chatgpt-plus-advantageous-over-the-basic-version-a-zdnet-examination/"><u>Is Paying for ChatGPT Plus Advantageous Over the Basic Version? A ZDNet Examination</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/microsofts-subtle-update-sparks-major-backlash-among-users-technews/"><u>Microsoft's Subtle Update Sparks Major Backlash Among Users | TechNews</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-running-gear-unveiled-the-garmin-forerunner-45-exposed/"><u>Top Running Gear Unveiled: The Garmin Forerunner 45 Exposed</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-lies-beneath-meta-in-the-gaming-world/"><u>What Lies Beneath 'Meta' In the Gaming World?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-new-iphone-16-pros-reduced-size-makes-it-more-attractive-than-the-plus-model-insights-from-apple/"><u>Why the New iPhone 16 Pro's Reduced Size Makes It More Attractive than the Plus Model - Insights From Apple</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-for-clearer-audio-in-home-based-podcasts-for-2024/"><u>[Updated] Tips for Clearer Audio in Home-Based Podcasts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>[Updated] Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/202-4insta/"><u>「最新手順：202 4年のInsta動画ダウンロードテクニックを知る！」</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturewin10-top-tier-recorder/"><u>2024 Approved CaptureWin10 Top-Tier Recorder</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-g310-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia G310 FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/automotive-gps-innovations-2024s-standout-tracks/"><u>Automotive GPS Innovations: 2024'S Standout Tracks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/convert-your-favorite-bebo-music-to-high-quality-mp3wav-files/"><u>Convert Your Favorite Bebo Music to High-Quality MP3/WAV Files</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/convert-your-vevo-files-to-mp3-format-with-ease-on-pc-and-mac/"><u>Convert Your Vevo Files to MP3 Format with Ease on PC & Mac</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discover-the-most-efficient-cydia-downloader-substitutes-for-mac-and-pc-enthusiasts/"><u>Discover the Most Efficient Cydia Downloader Substitutes for Mac and PC Enthusiasts</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discover-the-top-5-edtech-platforms-comparable-to-udemy-for-lifelong-learners/"><u>Discover the Top 5 EdTech Platforms Comparable to Udemy for Lifelong Learners</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/download-and-format-converter-for-the-wall-street-journal-transforming-clips-into-mp4-mov-and-avi/"><u>Download and Format Converter for The Wall Street Journal: Transforming Clips Into MP4, MOV & AVI</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/download-full-episodes-of-disney-xd-online-for-free-on-watchdisneyxd-website/"><u>Download Full Episodes of Disney XD Online for Free on WatchDisneyXD Website</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-guide-to-capture-and-convert-tnt-streams-into-mp4avi-formats-using-our-cross-platform-downloader-app/"><u>Easy Guide to Capture and Convert TNT Streams Into MP4/AVI Formats Using Our Cross-Platform Downloader App</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-methods-for-transforming-your-vidlii-videos-into-diverse-file-types-including-mp4-avi-and-mov/"><u>Easy Methods for Transforming Your VidLii Videos Into Diverse File Types Including MP4, AVI & MOV</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/photoslideshow-pro-on-insta/"><u>PhotoSlideshow Pro on Insta</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secrets-to-standout-final-scenes-on-yt-platforms/"><u>Secrets to Standout Final Scenes on YT Platforms</u></a></li>
 </ul></div>
 
