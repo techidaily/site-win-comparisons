@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Safeguarding Your Facebook Presence Against Hacking and Privacy Breaches"
-date: 2024-11-10T19:13:37.084Z
-updated: 2024-11-17T01:43:27.130Z
+date: 2024-11-23T12:56:48.554Z
+updated: 2024-11-26T01:15:54.574Z
 tags:
   - product
   - antivirus
@@ -48,21 +48,20 @@ While you cannot do much about how Facebook uses your data, you must protect you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide to Protect your Facebook Account
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protecting your Profile
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Profile View
@@ -79,13 +78,6 @@ Ideally, you’d want to remove or hide information such as your birthday, your 
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Logging-In
 
 One of the first things you should have customized right after creating your account is your security and login methods. Click ▼ on your navigation then choose **Settings**. Go to the **Security and login** tab on the left-hand menu.
@@ -95,6 +87,10 @@ One of the first things you should have customized right after creating your acc
 On this page, check the devices where your account is logged in under **Where you’re logged in**. Delete sessions on the devices that you don’t regularly use. You can also change your password in **Login**.
 
 Under **Setting up extra security**, it is strongly recommended to turn on Getting **alerts about** unrecognized **logins** to inform you of any illegal login attempts on your account. Similarly, to add a layer of protection, enable **Use two-factor authentication**. It will require you to enter a code sent to you via SMS before logging in to your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protecting Posts
 
@@ -108,6 +104,10 @@ By default all your posts are **Public**. That means anyone looking at your Time
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Under **Who can see my stuff?** Customize this to the most secure. Set your posts to be viewable by your friends only. Moreover, you can change the privacy of your past posts using **Limit Past Posts**.
 
 Another important option is to adjust settings on **Who can look me up?**. This option is for the contact information you have on your profile. Again, you can set this to the most private option. Additionally, you can also prevent search engines from indexing your profile outside Facebook.
@@ -116,29 +116,9 @@ If you want more control over your post’s privacy, you can quickly change the 
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/5-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you still prefer having **Public** posts and profiles, you can always control interactions in it. Go to Public posts and customize them to the highest privacy.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/6.png)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Their Posts
 
@@ -161,10 +141,7 @@ Go to **Apps**, tab on the left-hand menu.
 ![](https://malwarefox.com/wp-content/uploads/2017/10/8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Remove all applications that are not necessary to your daily Facebook activities. Note that some websites where you used your Facebook account to log in will also show up here. Be careful when deleting each app and assess whether it is necessary or not.
@@ -173,13 +150,6 @@ Scroll down and take note of the options under **Apps,** Web sites **and Plug-in
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Thoughts
 
 Standard safety precautions still apply when protecting your Facebook account. Threats come from all kinds of sources. It is best to protect both your Facebook account and your computer to avoid one infecting the other.
@@ -187,6 +157,10 @@ Standard safety precautions still apply when protecting your Facebook account. T
 Installing antivirus programs protects your computer in case your Facebook account gets infected by malicious applications.
 
 A clean browsing habit is a proper prevention and protection from attacks and threats. Make sure that you’re only visiting legitimate and secure websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -213,19 +187,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ticking-time-away-with-obs-creating-a-countdown-timer/"><u>[New] Ticking Time Away with OBS Creating a Countdown Timer</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-backward-image-hunt-on-the-worlds-largest-social-site-for-2024/"><u>[Updated] Navigating Backward Image Hunt on the World's Largest Social Site for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>2024 Approved Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-cloud-storage-deals-prices-to-watch-for-2024/"><u>Best Cloud Storage Deals – Prices to Watch for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/clon-sector-a-sector-explicado-pasos-esenciales-y-beneficios-para-la-optimizacion-del-negocio/"><u>Clon Sector a Sector Explicado: Pasos Esenciales Y Beneficios Para La Optimización Del Negocio</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/comment-recuperer-des-fichiers-supprimes-sur-votre-appareil-android/"><u>Comment Récupérer Des Fichiers Supprimés Sur Votre Appareil Android ?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-these-12-websites-offering-free-stock-photo-collections-for-2024/"><u>Explore These 12 Websites Offering Free Stock Photo Collections for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/losung-fur-itunes-hindernis-iphone-kann-nicht-wiederhergestellt-werden-da-der-verfugbare-speicherplatz-zu-gering-ist/"><u>Lösung Für iTunes Hindernis: IPhone Kann Nicht Wiederhergestellt Werden, Da Der Verfügbare Speicherplatz Zu Gering Ist</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/pasos-faciles-para-la-configuracion-de-qsync-en-windows-111087/"><u>Pasos Fáciles Para La Configuración De Qsync en Windows 11/10/8/7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapseed-essentials-for-image-enthusiasts-for-2024/"><u>Snapseed Essentials for Image Enthusiasts for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ssd-duplication-made-easy-on-windows-how-to-replicate-your-samsung-m-use-case-specific-applications-for-cloning/"><u>SSD Duplication Made Easy on Windows: How to Replicate Your Samsung M.# Use Case-Specific Applications for Cloning</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/untangling-the-complexities-of-iastorasys-related-bsod-effective-solutions-and-prevention-tips/"><u>Untangling the Complexities of IaStora.sys-Related BSOD: Effective Solutions and Prevention Tips</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728501220925-windows-10/"><u>Windows 10 バックアップツール使用時のデータ保護および復元手順</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-methods-for-chronological-disruption-in-acting/"><u>[Updated] Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-seamless-creation-accessing-elite-afx-templates-for-free-for-2024/"><u>[Updated] Seamless Creation Accessing Elite AFX Templates for Free for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/5yuv55s75lplusd5a2y5ac05oma44go5zue5b6p5pa55rov77ya44or44k944kz44oz55so6kmz57sw5oml5byv44gn/"><u>動画保存場所と回復方法：パソコン用詳細手引き</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728505125188-windows-881/"><u>簡単に作業！Windows 8/8.1ディスクバックアップおよびリカバリ手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-connecting-with-whatsapp-on-your-apple-macbook/"><u>Complete Guide: Connecting with WhatsApp on Your Apple MacBook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>Dive Into Social Media Streams Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effizientes-virtual-machine-setup-mit-hyper-v-professionelle-insiderwissen/"><u>Effizientes Virtual Machine Setup Mit Hyper-V: Professionelle Insiderwissen</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/hassle-free-strategies-for-critical-system-drive-duplication-on-windows-11-systems/"><u>Hassle-Free Strategies for Critical System Drive Duplication on Windows 11 Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-most-chromebook-owners-will-find-themselves-wondering-which-online-video-editor-is-the-best-one-lets-have-a-look-at-some-of-the-best-onlin/"><u>New 2024 Approved Most Chromebook Owners Will Find Themselves Wondering, Which Online Video Editor Is the Best One. Lets Have a Look at some of the Best Online Video Editors that Will Help You Create Visually Engaging</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/shifting-systems-expert-techniques-for-moving-your-os-to-a-new-drive/"><u>Shifting Systems: Expert Techniques for Moving Your OS to a New Drive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-paradox-launcher-steps-to-resolve-issues/"><u>Troubleshooting the Paradox Launcher: Steps to Resolve Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
 </ul></div>
 
