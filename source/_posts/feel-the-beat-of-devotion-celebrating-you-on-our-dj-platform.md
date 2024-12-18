@@ -1,7 +1,7 @@
 ---
 title: Feel the Beat of Devotion – Celebrating You on Our DJ Platform
-date: 2024-12-04T17:39:56.339Z
-updated: 2024-12-11T19:30:15.393Z
+date: 2024-12-12T16:13:05.325Z
+updated: 2024-12-18T16:11:16.941Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Over the last two years with the release of our new [DEX 3](https://tools.techid
 We are set to build up our [DJ mixing software](https://tools.techidaily.com/pcdj/products/) platform starting with the DEX 3.8 release scheduled to release in about 2-3 weeks. We’re all excited about what we have in store for our public over the next few months. We want to impress you as much as you’ve impressed upon us. Thank you, and _we heart you_!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/weheartyou-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/boosting-automation-explore-8-key-ways-to-leverage-auto-gpt-in-daily-tasks/"><u>Boosting Automation: Explore 8 Key Ways to Leverage Auto-GPT in Daily Tasks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-sound-fidelity-what-sets-wav-apart-from-mp3-an-insightful-analysis-by-movavi/"><u>Comparing Sound Fidelity: What Sets WAV Apart From MP3? An Insightful Analysis by Movavi</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/effective-strategies-for-resolving-control-panel-issues-expert-insights-from-yl-computing/"><u>Effective Strategies for Resolving Control Panel Issues: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-saving-images-on-your-pc-easy-steps-with-windows-operating-system/"><u>Guide: Saving Images on Your PC - Easy Steps with Windows Operating System</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/innovative-visual-arts-stunning-4k-abstract-wallpapers-and-backdrops-powered-by-yl-software-solutions/"><u>Innovative Visual Arts: Stunning 4K Abstract Wallpapers & Backdrops - Powered by YL Software Solutions</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mastering-windows-system-preferences-optimize-battery-and-performance-settings-expert-advice-by-yl-software/"><u>Mastering Windows System Preferences: Optimize Battery and Performance Settings - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/network-configuration-mastery-using-control-panel-for-setup-with-yl-software-insights/"><u>Network Configuration Mastery: Using Control Panel for Setup with YL Software Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/olympic-snowscape-highlights-cross-style-22/"><u>Olympic Snowscape Highlights - Cross Style '22</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-obs-streaming-hitches-solving-the-mystery-of-the-missing-visual-output/"><u>Overcoming OBS Streaming Hitches: Solving the Mystery of the Missing Visual Output</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-t2-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo T2 5G has been deleted</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-tutorial-on-removing-icloud-sync-and-backup-files-from-ios-devices/"><u>Step-by-Step Tutorial on Removing iCloud Sync and Backup Files From iOS Devices</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/strategies-of-unification-the-sui-dynastys-ascendancy-in-chinese-history-yl-computing/"><u>Strategies of Unification: The Sui Dynasty's Ascendancy in Chinese History - YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamline-your-pc-update-experience-with-intuitive-driver-solutions/"><u>Streamline Your PC Update Experience with Intuitive Driver Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-walkthrough-for-connecting-a-fire-stick-remote-in-no-time/"><u>The Complete Walkthrough for Connecting a Fire Stick Remote in No Time</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-edition-review/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Edition) Review</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-bsod-mishaps-in-windows-with-ease-tips-from-yl-computing-solutions/"><u>Troubleshooting BSOD Mishaps in Windows with Ease - Tips From YL Computing Solutions</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/unveiling-the-transformative-consequences-of-chinas-shift-to-communism-a-comprehensive-analysis-yl-software-innovations/"><u>Unveiling the Transformative Consequences of China's Shift to Communism: A Comprehensive Analysis - YL Software Innovations</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-the-finest-cell-phone-contracts-for-elders-our-picks-for-202n4/"><u>Discover the Finest Cell Phone Contracts for Elders - Our Picks for 202N4</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effortless-cross-format-file-saving-in-windows-operating-system-insights-from-codecrafters/"><u>Effortless Cross-Format File Saving in Windows Operating System - Insights From CodeCrafters</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-gt-3-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme GT 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-your-video-footage-shape-size-and-more/"><u>New 2024 Approved Transform Your Video Footage Shape, Size, and More</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/showcase-your-style-with-mallory-james-mahoney-visuals-and-custom-desktops-high-quality-designs-from-yl-software-solutions/"><u>Showcase Your Style with Mallory James Mahoney Visuals and Custom Desktops - High-Quality Designs From YL Software Solutions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/solving-printer-malfunctions-effective-troubleshooting-strategies-by-yl-software-professionals/"><u>Solving Printer Malfunctions: Effective Troubleshooting Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-for-uncovering-lost-data-in-windows-using-yl-software-techniques/"><u>Step-by-Step Tutorial for Uncovering Lost Data in Windows Using YL Software Techniques</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-device-driver-restoration-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Device Driver Restoration with YL Software Solutions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/streamline-digital-messaging-amongst-peers-the-ultimate-guide-to-group-emails-on-social-platforms-using-massmail-technology/"><u>Streamline Digital Messaging Amongst Peers: The Ultimate Guide to Group Emails on Social Platforms Using MassMail Technology</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-your-kindle-fire-7-az3-device-managing-digital-content/"><u>Unlocking Your Kindle Fire 7 (AZ3) Device: Managing Digital Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-microphone-working-common-issues-and-fixes-explained/"><u>Why Isn’t My Microphone Working? Common Issues and Fixes Explained</u></a></li>
 </ul></div>
 
