@@ -1,7 +1,7 @@
 ---
 title: Wie Übertragen Sie Ihre Älteren Wege-Nachrichten Erfolgreich Auf Ein Neues iPhone Modell (14/13/12/11)?
-date: 2024-12-11T16:10:49.279Z
-updated: 2024-12-18T16:10:39.031Z
+date: 2024-12-30T16:38:04.468Z
+updated: 2025-01-05T16:29:25.697Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -65,16 +61,12 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -97,9 +89,17 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -118,11 +118,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -141,9 +137,17 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -165,10 +169,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -177,11 +177,11 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,22 +198,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad-for-2024/"><u>[New] A Complete Guide to Downloading YouTube Videos to iPhone or iPad for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-efficient-digital-voice-alteration-for-vtubers/"><u>[New] In 2024, Efficient Digital Voice Alteration for VTubers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[Updated] In 2024, Behind the Scenes Mastering Screen Recordings in Games</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplifying-the-complexities-of-vr-devices/"><u>[Updated] In 2024, Simplifying the Complexities of VR Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>2024 Approved How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728464416154-mac/"><u>運用 Mac 複製文件到外置硬碟的三種簡單方法 - 自由下載</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-x6-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find X6? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/duplication-dune-partition-windows-881-procedure-et-astuces-efficaces/"><u>Duplication D'une Partition Windows 8/8.1 : Procédure Et Astuces Efficaces</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/exploring-itunes-does-it-store-your-images-in-backups/"><u>Exploring iTunes: Does It Store Your Images in Backups?</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-power-up-choosing-between-directx-11-and-12/"><u>Graphics Power Up: Choosing Between DirectX 11 & 12</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-to-effortlessly-port-apps-between-ipads-from-vintage-to-new-gen-devices-pro-air-and-mini/"><u>Guide to Effortlessly Port Apps Between iPads: From Vintage to New-Gen Devices (Pro, Air, and Mini)</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-prime-window-viewer-for-speedy-images/"><u>In 2024, Prime Window Viewer for Speedy Images</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/recuperacion-de-archivos-perdidos-tras-una-limpieza-completa-en-windows-11/"><u>Recuperación De Archivos Perdidos Tras Una Limpieza Completa en Windows 11</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ripristina-i-tuoi-documenti-eliminati-da-tre-anni-indietro-metodi-gratis-e-semplici/"><u>Ripristina I Tuoi Documenti Eliminati Da Tre Anni Indietro - Metodi Gratis E Semplici</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/wie-fuhrt-man-eine-systemwiederherstellung-in-windows-10-aus/"><u>Wie Führt Man Eine Systemwiederherstellung In Windows 10 Aus?</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/44oh44o844k44gm5asx44kp44km44gf54q25owl44gn44cb44ov44kp44o844oe44od44oi44gv44km44gf44or44o844og44kj44k344on44oz44gplus44gf44gv44oj44op44kk44ow44gu5lplusu5b623/"><u>データが失われた状態で、フォーマットされたパーティションまたはドライブの修復方法を教えてください。</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breaking-down-8-common-blunders-in-early-stage-youtube-success-for-2024/"><u>[New] Breaking Down 8 Common Blunders in Early-Stage YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>[New] In 2024, Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leading-unboxing-series-s-must-watch-yt-channels/"><u>[Updated] 2024 Approved Leading Unboxing Series 'S Must-Watch YT Channels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>[Updated] In 2024, A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-two-effective-methods-restoring-accidentally-deleted-temporary-browser-cache/"><u>1. Two Effective Methods: Restoring Accidentally Deleted Temporary Browser Cache</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-camera-essentials-for-adventure-videographers/"><u>2024 Approved Camera Essentials for Adventure Videographers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/eficientemente-limpando-sua-memoria-flash-3-tecnicas-de-seguranca-para-pen-drives-usb/"><u>Eficientemente Limpando Sua Memória Flash: 3 Técnicas De Segurança Para Pen Drives USB</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-retrieving-information-from-a-moisture-compromised-iphone-7/"><u>Step-by-Step Guide: Retrieving Information From a Moisture-Compromised iPhone 7</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/synchronize-data-efficiently-with-clonezilla-disk-imaging-on-windows-xp-vista-and-2003/"><u>Synchronize Data Efficiently with Clonezilla Disk Imaging on Windows XP, Vista & 2003</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-5-best-data-retrieval-applications-for-restoring-lost-or-corrupted-partitions-on-windows-and-macos-by-ifind/"><u>Top 5 Best Data Retrieval Applications for Restoring Lost or Corrupted Partitions on Windows & macOS by iFind</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/vergessene-textnachrichten-nicht-mehr-sein-lerne-wie-du-sie-auf-deinem-iphone-mit-diesen-4-einfachen-schritten-wiederherstellen-kannst/"><u>Vergessene Textnachrichten Nicht Mehr Sein! Lerne, Wie Du Sie Auf Deinem iPhone Mit Diesen 4 Einfachen Schritten Wiederherstellen Kannst.</u></a></li>
 </ul></div>
 

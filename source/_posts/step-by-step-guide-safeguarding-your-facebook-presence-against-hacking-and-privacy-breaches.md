@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Safeguarding Your Facebook Presence Against Hacking and Privacy Breaches"
-date: 2024-12-07T19:55:52.765Z
-updated: 2024-12-12T00:21:09.072Z
+date: 2025-01-02T16:51:36.601Z
+updated: 2025-01-05T16:31:23.118Z
 tags:
   - product
   - antivirus
@@ -48,13 +48,13 @@ While you cannot do much about how Facebook uses your data, you must protect you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Guide to Protect your Facebook Account
 
 ## Protecting your Profile
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Profile View
 
@@ -64,6 +64,10 @@ The first thing that you need to know is how your profile looks to the public. G
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The public will always view your profile photo, cover photo, and your name. The rest of the information in your profile such as your posts, photos, friends, and personal information can be customized.
 
 Ideally, you’d want to remove or hide information such as your birthday, your place of work, and your personal contact information. To do this, go to the **About** tab in your Timeline and edit the information that you share.
@@ -71,7 +75,7 @@ Ideally, you’d want to remove or hide information such as your birthday, your 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Logging-In
@@ -84,13 +88,13 @@ On this page, check the devices where your account is logged in under **Where yo
 
 Under **Setting up extra security**, it is strongly recommended to turn on Getting **alerts about** unrecognized **logins** to inform you of any illegal login attempts on your account. Similarly, to add a layer of protection, enable **Use two-factor authentication**. It will require you to enter a code sent to you via SMS before logging in to your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protecting Posts
 
 Now that you secure your profile, it is time to ensure that your posts and the posts you see are safe from vulnerabilities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Your Posts
 
@@ -107,6 +111,10 @@ Another important option is to adjust settings on **Who can look me up?**. This 
 If you want more control over your post’s privacy, you can quickly change the settings of each post by clicking on the privacy options right next to the **Post** button.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/5-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you still prefer having **Public** posts and profiles, you can always control interactions in it. Go to Public posts and customize them to the highest privacy.
 
@@ -125,7 +133,7 @@ It is ideal to turn on post reviews and tagged posts in your Timeline. This ensu
 [Facebook Messenger Virus: How to Stay Safe](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protecting Apps
@@ -136,10 +144,6 @@ Go to **Apps**, tab on the left-hand menu.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Remove all applications that are not necessary to your daily Facebook activities. Note that some websites where you used your Facebook account to log in will also show up here. Be careful when deleting each app and assess whether it is necessary or not.
 
 Scroll down and take note of the options under **Apps,** Web sites **and Plug-ins** and **Apps others use**. For tighter security, you can disable using Facebook with third-party applications and websites altogether. That means all your information stays on Facebook. You can also adjust what information apps can access from your profile.
@@ -147,7 +151,7 @@ Scroll down and take note of the options under **Apps,** Web sites **and Plug-in
 ![](https://malwarefox.com/wp-content/uploads/2017/10/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Thoughts
@@ -157,10 +161,6 @@ Standard safety precautions still apply when protecting your Facebook account. T
 Installing antivirus programs protects your computer in case your Facebook account gets infected by malicious applications.
 
 A clean browsing habit is a proper prevention and protection from attacks and threats. Make sure that you’re only visiting legitimate and secure websites.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -187,22 +187,15 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-premier-software-for-cutting-gopro-videos/"><u>[New] Premier Software for Cutting GoPro Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-know-how-for-video-filter-integration-on-digital-platforms/"><u>[Updated] In 2024, Essential Know-How for Video Filter Integration on Digital Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-must-have-features-in-drone-gimbals/"><u>[Updated] Top 10 Must-Have Features in Drone Gimbals</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/diagnosing-and-resolving-non-responsive-microsoft-windows-programs-with-yl-software-solutions/"><u>Diagnosing and Resolving Non-Responsive Microsoft Windows Programs with YL Software Solutions</u></a></li>
-<li><a href="https://solve-news.techidaily.com/digiarty-software-official-winx-dvd-site-authorized-source/"><u>Digiarty Software Official WinX DVD Site - Authorized Source</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/download-stunning-aishwarya-rai-hd-walls-and-screensaver-graphics-exclusive-offer-from-yl-software/"><u>Download Stunning Aishwarya Rai HD Walls and Screensaver Graphics – Exclusive Offer From YL Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/easy-guide-to-data-preservation-utilizing-the-windows-control-panel-for-effective-backups-advice-by-yl-software-experts/"><u>Easy Guide to Data Preservation: Utilizing the Windows Control Panel for Effective Backups - Advice by YL Software Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/everyday-wonders-how-nasas-16-pioneering-discoveries-benefit-us-all/"><u>Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto G23 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/humorhub-imagery-mememagic-inc/"><u>HumorHub Imagery MemeMagic Inc</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform/"><u>In 2024, The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/optimizing-pc-boost-masterful-bios-configuration-tips-from-yl-computing/"><u>Optimizing PC Boost: Masterful BIOS Configuration Tips From YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/solving-driver-software-installation-problems-expert-tips-from-yl-computing/"><u>Solving Driver Software Installation Problems: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/solving-graphics-display-issues-on-your-pc-insights-from-yl-computings-tech-experts/"><u>Solving Graphics Display Issues on Your PC - Insights From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://discover-able.techidaily.com/solving-the-mystery-how-to-get-your-windows-pc-to-detect-and-utilize-its-sound-card-expert-tips-from-yl-software/"><u>Solving the Mystery: How to Get Your Windows PC to Detect and Utilize Its Sound Card - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/understanding-incompatibility-why-certain-programs-cant-pair-with-your-windows-pc-sound-card-insights-by-yl-computing/"><u>Understanding Incompatibility: Why Certain Programs Can't Pair With Your Windows PC Sound Card - Insights by YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/understanding-the-mechanics-of-crypto-trading-platforms-a-guide-by-yl-computing/"><u>Understanding the Mechanics of Crypto Trading Platforms - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728504420838-win11/"><u>解決 Win11 自動刪除檔案問題：有效證明後的兩種方法</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/come-effettuare-il-clonaggio-di-unssd-su-windows-7-senza-compromettere-i-tuoi-dati/"><u>Come Effettuare Il Clonaggio Di Un'SSD Su Windows 7 Senza Compromettere I Tuoi Dati</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artificial-intelligence-illusions-techniques-for-identifying-false-pattern-recognition-in-ai-models/"><u>Demystifying Artificial Intelligence Illusions: Techniques for Identifying False Pattern Recognition in AI Models</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guida-fai-da-te-per-creare-un-backup-completo-di-windows-11-metodo-rapido-ed-economico/"><u>Guida Fai-Da-Te per Creare Un Backup Completo Di Windows 11: Metodo Rapido Ed Economico</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x90s-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X90S in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/losungsansatze-fur-iphone-updates-auf-ios-16-und-15-problembehandlung/"><u>Lösungsansätze Für iPhone-Updates Auf iOS 16 Und 15 - Problembehandlung</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-deleted-jottings-and-memos-on-an-iphone-ultimate-troubleshooting-tips/"><u>Reviving Deleted Jottings and Memos on an iPhone: Ultimate Troubleshooting Tips</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/troubleshooting-persistent-crashes-of-valorant-in-windows-11-understanding-the-root-problems/"><u>Troubleshooting Persistent Crashes of Valorant in Windows 11: Understanding the Root Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
 
