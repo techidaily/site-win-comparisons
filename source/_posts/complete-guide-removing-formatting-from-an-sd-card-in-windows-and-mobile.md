@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Removing Formatting From an SD Card in Windows & Mobile"
-date: 2024-12-30T16:34:28.294Z
-updated: 2025-01-05T16:41:17.413Z
+date: 2025-01-04T20:29:44.272Z
+updated: 2025-01-11T22:45:05.667Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b733704c87b6bafd0385f7132f.jpg
@@ -28,6 +28,10 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -45,6 +49,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -61,10 +69,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -78,7 +82,7 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -97,21 +101,21 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -141,6 +145,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -162,7 +170,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -173,15 +181,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,20 +198,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-viral-traction-via-youtube-short-content/"><u>[New] In 2024, Surge Viral Traction via YouTube Short Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-pivotal-role-of-thumbnails-in-video-success-stories/"><u>[Updated] The Pivotal Role of Thumbnails in Video Success Stories</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728504755301-hddssdwindows-11/"><u>「轻松将数据从HDD转移到SSD：Windows 11上的两种有效方法」</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/5ogi5asn5pah5qgj5yiw5ymn5pyf54mi5pys55qe5zub5asn5oqa5benic3kujpkujrmk43kvzzmiyvlhow/"><u>恢复文档到前期版本的四大技巧 -专业操作手册</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728495582630-8/"><u>如何尋回失去的文件夾 - 8個最佳解決方案</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-voice-to-text-apps-of-2024/"><u>Best Voice-to-Text Apps of 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/fixing-failures-in-setting-up-shared-fault-analysis-during-windows-backup-processes/"><u>Fixing Failures in Setting Up Shared Fault Analysis During Windows Backup Processes</u></a></li>
-<li><a href="https://discover-community.techidaily.com/high-fidelity-cloning-techniques-for-the-hunger-games-movie-part-2-on-dvd-format/"><u>High-Fidelity Cloning Techniques for The Hunger Games Movie (Part 2) on DVD Format</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/les-plus-efficaces-solutions-de-synchro-macos-features-et-conseils-dutilisation/"><u>Les Plus Efficaces Solutions De Synchro macOS: Features Et Conseils D'Utilisation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pixelated-projections-immersive-filmscape-for-2024/"><u>Pixelated Projections Immersive Filmscape for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-data-recovery-recover-lost-data-from-realme-c67-4g-by-fonelab-android-recover-data/"><u>Realme Data Recovery – recover lost data from Realme C67 4G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/0-audio-disruptors-androidios-edition-for-2024/"><u>Top 10 Audio Disruptors Android/iOS Edition for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-strategies-for-enhancing-your-pcs-efficiency-insights-from-yl-computing/"><u>Top Strategies for Enhancing Your PC's Efficiency: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-vr-treadmills-review/"><u>Top VR Treadmills Review</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-and-repair-strategies-for-smart-warnings-on-drives-0-2-or-4-indicating-potential-hdd-failure/"><u>Troubleshooting and Repair Strategies for SMART Warnings on Drives 0, 2, or 4 Indicating Potential HDD Failure</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-artistic-excellence-at-your-fingertesps-the-definitive-10-vector-editors/"><u>[Updated] In 2024, Artistic Excellence at Your Fingertesps The Definitive 10 Vector Editors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-making-your-instagram-story-pop-with-youtube-vids/"><u>[Updated] In 2024, Making Your Instagram Story Pop with YouTube Vids</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/best-3-strategies-for-seamless-data-migration-from-your-vintage-ipad-to-latest-model-bypassing-icloud/"><u>Best 3 Strategies for Seamless Data Migration From Your Vintage iPad to Latest Model, Bypassing iCloud</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-login-problems-caused-by-user-profile-service-error-in-windows-11/"><u>Fixing Login Problems Caused by User Profile Service Error in Windows 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/guide-complet-pour-cloner-un-ssd-ou-hdd-utilisation-du-manager-de-disques-paragon-sur-sous-systeme-windows/"><u>Guide Complet Pour Cloner Un SSD Ou HDD : Utilisation Du Manager De Disques Paragon Sur Sous-Système Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y100-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/loschen-von-festplatteninhalten-unter-windows-7-ohne-cd-zwei-effektive-ansatze/"><u>Löschen Von Festplatteninhalten Unter Windows 7 Ohne CD - Zwei Effektive Ansätze</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/protecting-your-system-a-detailed-tutorial-for-creating-copies-of-hidden-windows-restore-partitions/"><u>Protecting Your System: A Detailed Tutorial for Creating Copies of Hidden Windows Restore Partitions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-walkthrough-how-to-install-and-configure-a-domain-controller-with-windows-server-201-generate-two-new-seo-titles-based-on-the-given-phrase-full22/"><u>Step-by-Step Walkthrough: How to Install and Configure a Domain Controller with Windows Server 201# Generate Two New SEO Titles Based on the Given Phrase Full Guide: Install Domain Controller on Windows Server 2012</u></a></li>
 </ul></div>
 
