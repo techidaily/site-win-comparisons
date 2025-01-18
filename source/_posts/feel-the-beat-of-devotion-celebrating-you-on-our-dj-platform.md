@@ -1,7 +1,7 @@
 ---
 title: Feel the Beat of Devotion – Celebrating You on Our DJ Platform
-date: 2025-01-04T16:26:11.435Z
-updated: 2025-01-12T03:45:56.515Z
+date: 2025-01-15T21:45:46.131Z
+updated: 2025-01-17T17:39:40.456Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Over the last two years with the release of our new [DEX 3](https://tools.techid
 We are set to build up our [DJ mixing software](https://tools.techidaily.com/pcdj/products/) platform starting with the DEX 3.8 release scheduled to release in about 2-3 weeks. We’re all excited about what we have in store for our public over the next few months. We want to impress you as much as you’ve impressed upon us. Thank you, and _we heart you_!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,19 +60,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/weheartyou-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>[New] Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-accumulating-prime-visuals-for-content-creation/"><u>[Updated] 2024 Approved Accumulating Prime Visuals for Content Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-asmr-content-deep-dive-101/"><u>[Updated] 2024 Approved ASMR Content Deep Dive 101</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-managing-high-iphone-photo-library-tips-and-solutions/"><u>1. Managing High iPhone Photo Library: Tips & Solutions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-a-practical-handbook-for-recording-virtual-play-battles/"><u>2024 Approved A Practical Handbook for Recording Virtual Play Battles</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/windows-11-0x80-070002-0x80070003/"><u>如何立即解決 Windows 11 的 0X80 070002 及 0X80070003 錯誤：完全修復手冊</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728485294060-onedrive/"><u>一點都不費力的OneDrive 後宮：有效儲存貴重文件以及提高安全性</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/comment-realiser-un-double-dssd-nvme-en-safesis-avec-clonezilla-sans-perdre-de-donnees/"><u>Comment Réaliser Un Double D'SSD NVMe en Safesis Avec Clonezilla Sans Perdre De Données</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/comprehensive-head-to-head-hitman-pro-vs-malwarebytes-for-optimal-security/"><u>Comprehensive Head-to-Head: Hitman Pro Vs. Malwarebytes for Optimal Security</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-clever-design-a-comprehensive-review-of-twelve-south-bookbook-v2-case/"><u>Evaluating the Clever Design: A Comprehensive Review of Twelve South BookBook V2 Case</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/how-to-find-your-niche-and-style-a-starters-guide-high-cpm-for-2024/"><u>How to Find Your Niche and Style - a Starter's Guide [High CPM] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-optimize-microphone-use-on-windows-11-for-best-results-for-2024/"><u>How to Optimize Microphone Use on Windows 11 for Best Results for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-strategic-approach-to-embedding-youtube-links-in-insta-stories/"><u>In 2024, The Strategic Approach to Embedding YouTube Links in Insta Stories</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/master-your-system-expert-tips-on-asus-uefi-bios-passwords-unlocked/"><u>Master Your System: Expert Tips on ASUS UEFI BIOS Passwords Unlocked!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-social-sensation-tweets-whats-going-big-online/"><u>[New] In 2024, Social Sensation Tweets What's Going Big Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>2024 Approved The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/pdf6/"><u>失去PDF文件时的6个复原解决方案：如何重获数字格式</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728475335558-windows-11/"><u>元に戻せ！Windows 11で右クリックメニューの初期設定へ</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/die-beste-kostenlose-iperius-alternativen-fur-backup-im-kommenden-jahr-entdecken-sie-die-top-empfehlungen-von-2024/"><u>Die Beste Kostenlose Iperius-Alternativen Für Backup Im Kommenden Jahr - Entdecken Sie Die Top Empfehlungen Von 2024!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discover-the-ultimate-4-substitutes-for-wondershare-rescue-pro/"><u>Discover the Ultimate 4 Substitutes for Wondershare Rescue Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-cryptocurrency-profits-with-these-premium-psus-the-ideal-choices-for-eth-and-btc-miners/"><u>Enhance Cryptocurrency Profits with These Premium PSUs: The Ideal Choices for Eth & Btc Miners</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-14ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 14/iPad/iPod</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/losungsoptionen-fur-den-seite-nicht-gefunden-fehler-bei-aomei-backupper/"><u>Lösungsoptionen Für Den 'Seite Nicht Gefunden' - Fehler Bei AOMEI Backupper</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-pc-gaming-capturing-your-adventures-on-win10/"><u>Mastering PC Gaming Capturing Your Adventures on Win10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-viewer-discussions-on-youtube/"><u>Mastering Viewer Discussions on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-bargain-with-the-apple-macbook-air-m2-for-only-749-this-prime-day-dont-miss-out-on-amazons-ultimate-october-sale/"><u>Score an Unbeatable Bargain with the Apple MacBook Air (M2) for Only $749 This Prime Day – Don't Miss Out on Amazon's Ultimate October Sale!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/troubleshooting-the-current-configuration-conflict-in-vmware-environments/"><u>Troubleshooting the 'Current Configuration Conflict' In VMware Environments</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-on-retrieving-irrecoverable-images-from-various-gadgets-using-ifind-data-recovery/"><u>Ultimate Guide on Retrieving Irrecoverable Images From Various Gadgets Using IFind Data Recovery</u></a></li>
 </ul></div>
 
