@@ -1,7 +1,7 @@
 ---
 title: Feel the Beat of Devotion – Celebrating You on Our DJ Platform
-date: 2025-01-15T21:45:46.131Z
-updated: 2025-01-17T17:39:40.456Z
+date: 2025-01-19T01:59:24.957Z
+updated: 2025-01-23T18:24:59.739Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Over the last two years with the release of our new [DEX 3](https://tools.techid
 We are set to build up our [DJ mixing software](https://tools.techidaily.com/pcdj/products/) platform starting with the DEX 3.8 release scheduled to release in about 2-3 weeks. We’re all excited about what we have in store for our public over the next few months. We want to impress you as much as you’ve impressed upon us. Thank you, and _we heart you_!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,21 +60,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/weheartyou-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-social-sensation-tweets-whats-going-big-online/"><u>[New] In 2024, Social Sensation Tweets What's Going Big Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>2024 Approved The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/pdf6/"><u>失去PDF文件时的6个复原解决方案：如何重获数字格式</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728475335558-windows-11/"><u>元に戻せ！Windows 11で右クリックメニューの初期設定へ</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/die-beste-kostenlose-iperius-alternativen-fur-backup-im-kommenden-jahr-entdecken-sie-die-top-empfehlungen-von-2024/"><u>Die Beste Kostenlose Iperius-Alternativen Für Backup Im Kommenden Jahr - Entdecken Sie Die Top Empfehlungen Von 2024!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/discover-the-ultimate-4-substitutes-for-wondershare-rescue-pro/"><u>Discover the Ultimate 4 Substitutes for Wondershare Rescue Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-cryptocurrency-profits-with-these-premium-psus-the-ideal-choices-for-eth-and-btc-miners/"><u>Enhance Cryptocurrency Profits with These Premium PSUs: The Ideal Choices for Eth & Btc Miners</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-14ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 14/iPad/iPod</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/losungsoptionen-fur-den-seite-nicht-gefunden-fehler-bei-aomei-backupper/"><u>Lösungsoptionen Für Den 'Seite Nicht Gefunden' - Fehler Bei AOMEI Backupper</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-pc-gaming-capturing-your-adventures-on-win10/"><u>Mastering PC Gaming Capturing Your Adventures on Win10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-viewer-discussions-on-youtube/"><u>Mastering Viewer Discussions on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-bargain-with-the-apple-macbook-air-m2-for-only-749-this-prime-day-dont-miss-out-on-amazons-ultimate-october-sale/"><u>Score an Unbeatable Bargain with the Apple MacBook Air (M2) for Only $749 This Prime Day – Don't Miss Out on Amazon's Ultimate October Sale!</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-the-current-configuration-conflict-in-vmware-environments/"><u>Troubleshooting the 'Current Configuration Conflict' In VMware Environments</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-on-retrieving-irrecoverable-images-from-various-gadgets-using-ifind-data-recovery/"><u>Ultimate Guide on Retrieving Irrecoverable Images From Various Gadgets Using IFind Data Recovery</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-4k-resolution-reimagined-picking-the-right-vision-technology/"><u>[Updated] In 2024, 4K Resolution Reimagined Picking the Right Vision Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-obs-studio-key-editing-tactics-unveiled/"><u>[Updated] In 2024, Mastering OBS Studio Key Editing Tactics Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-obs-studio-for-ps4-step-by-step-screen-capture/"><u>[Updated] In 2024, Obs Studio for PS4 Step-by-Step Screen Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundbite-strategies-transform-your-voice-records/"><u>[Updated] Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/10-update-services-in-the-coming-year-what-you-need-to-know/"><u>10 Update Services in the Coming Year – What You Need to Know</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/amazons-exit-from-windows-11-marketplace-as-microsoft-takes-action/"><u>Amazon's Exit From Windows 11 Marketplace as Microsoft Takes Action</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/assessing-value-comparing-free-and-premium-chatgpt-services-zdnet-analysis/"><u>Assessing Value: Comparing Free and Premium ChatGPT Services | ZDNet Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-dota-2-anti-cheat-penalties-fixes-for-2-error/"><u>Avoiding Dota 2 Anti-Cheat Penalties - Fixes for 2# Error</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/filmmaking-for-social-media-imovie-tips-for-crafting-square-content/"><u>Filmmaking for Social Media IMovie Tips for Crafting Square Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/invaluable-list-of-costless-photographic-and-moving-images-for-2024/"><u>Invaluable List of Costless Photographic and Moving Images for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/navigating-the-future-of-work-with-microsofts-latest-tech-savvy-gadgets-a-zdnet-perspective/"><u>Navigating the Future of Work with Microsoft's Latest Tech-Savvy Gadgets: A ZDNet Perspective</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-mac-streams-with-these-industrys-favorite-5-apps-for-2024/"><u>Optimize Mac Streams with These Industry's Favorite 5 Apps for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/revitalizing-team-dynamics-microsoft-boosts-employee-engagement-with-enhanced-teams-features/"><u>Revitalizing Team Dynamics: Microsoft Boosts Employee Engagement with Enhanced Teams Features</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-overcoming-error-0x800700e1-in-windows-11-devices/"><u>Techniques for Overcoming Error 0X800700E1 in Windows 11 Devices</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-7-standing-desks-of-2023-the-ultimate-list-from-zdnet/"><u>Top 7 Standing Desks of 2023: The Ultimate List From ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-rated-standing-desk-seating-options-best-wobble-stools-and-chairs-in-202/"><u>Top-Rated Standing Desk Seating Options: Best Wobble Stools & Chairs in 202</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/zdnets-top-picks-superior-standing-desk-attachment-units-reviewed/"><u>ZDNET's Top Picks: Superior Standing Desk Attachment Units Reviewed</u></a></li>
 </ul></div>
 
