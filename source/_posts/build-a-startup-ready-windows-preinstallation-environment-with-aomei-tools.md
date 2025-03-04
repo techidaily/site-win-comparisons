@@ -1,7 +1,7 @@
 ---
 title: Build a Startup-Ready Windows Preinstallation Environment with AOMEI Tools
-date: 2025-01-12T16:44:13.316Z
-updated: 2025-01-17T21:39:06.456Z
+date: 2025-02-27T17:29:13.995Z
+updated: 2025-03-03T19:49:38.132Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa2ac9dfaad9bb392e5876080.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
@@ -31,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -64,17 +56,9 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -92,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -116,10 +96,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -152,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -174,18 +146,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -249,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -298,18 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-audience-expansion-strategies-that-honor-youtube-standards/"><u>[New] 2024 Approved Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-effortless-identity-masking-techniques-in-picscanner/"><u>[New] In 2024, Effortless Identity Masking Techniques in PicScanner</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>[Updated] Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-effortless-steps-to-obtain-free-audio-for-videos/"><u>[Updated] In 2024, Effortless Steps to Obtain Free Audio for Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pixizs-pathway-from-picture-taking-to-storytelling-through-videos-for-2024/"><u>[Updated] Pixiz's Pathway From Picture Taking to Storytelling Through Videos for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/expanding-your-virtual-environment-a-step-by-step-guide-to-enlarging-disks-in-vmware-vsphere/"><u>Expanding Your Virtual Environment: A Step-by-Step Guide to Enlarging Disks in VMware vSphere</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>How to Bypass FRP on Tecno Camon 20 Premier 5G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-revive-windows-11s-sluggish-search-bar-on-the-settings-screen/"><u>How To Revive Windows 11'S Sluggish Search Bar on the Settings Screen</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/quick-guide-locating-and-opening-windows-control-panel-via-taskbar-expert-tips-by-yl-computing/"><u>Quick Guide: Locating and Opening Windows Control Panel via Taskbar - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-making.techidaily.com/solving-itunes-restoration-issues-on-iphone-overcoming-errors-during-recovery/"><u>Solving iTunes Restoration Issues on iPhone - Overcoming Errors During Recovery</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/the-triggering-factors-behind-the-taiping-uprising-and-its-consequences-explored-by-yl-tech-solutions/"><u>The Triggering Factors Behind the Taiping Uprising and Its Consequences, Explored by YL Tech Solutions</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-scanner-jams-expert-tips-from-yl-computings-latest-guide/"><u>Troubleshooting Scanner Jams: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/understanding-gpu-issues-why-does-your-graphics-card-make-the-computer-haltcrash/"><u>Understanding GPU Issues: Why Does Your Graphics Card Make the Computer Halt/Crash?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-in-depth-analysis-leading-tv-streaming-providers/"><u>[New] 2024 Approved In-Depth Analysis Leading TV Streaming Providers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-delving-deep-a-sincere-examination-of-recordcast/"><u>[New] Delving Deep A Sincere Examination of RecordCast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transform-your-fb-content-full-screen-magic-now/"><u>[Updated] 2024 Approved Transform Your FB Content Full-Screen Magic Now</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/apple-itunes-album-splits-causes-and-solutions/"><u>Apple iTunes Album Splits - Causes and Solutions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/come-ripristinare-in-modo-gratuito-il-ripristina-puntatorecestino-in-windows-11-una-guida-completa-e-semplice-per-gli-utenti/"><u>Come Ripristinare in Modo Gratuito Il Ripristina Puntatore/Cestino in Windows 11? Una Guida Completa E Semplice per Gli Utenti</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effective-solutions-for-completing-tasks-with-low-disk-capacity-availability/"><u>Effective Solutions for Completing Tasks with Low Disk Capacity Availability</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-a-video-presentation-using-adobe-captivate/"><u>How to Record a Video Presentation Using Adobe Captivate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-firefox-pip-simplified-for-the-everyday-user/"><u>In 2024, Firefox PIP Simplified for the Everyday User</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-move-all-info-with-a-sim-card-switch-between-phones/"><u>Is It Possible to Move All Info with a SIM Card Switch Between Phones?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/node-local-and-link-local-multicasts-cannot-leave-their-immediate-network-or-link-respectively/"><u>Node-Local and Link-Local Multicasts Cannot Leave Their Immediate Network or Link, Respectively.</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/sicherstellen-von-rekonstruierten-microsoft-office-excel-dokumenten-mit-myrecover-lagerungsmethoden-datenwiederherstellung/"><u>Sicherstellen Von Rekonstruierten Microsoft Office Excel-Dokumenten Mit MyRecover – Lagerungsmethoden | Datenwiederherstellung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-taskbar-absence-during-full-screen-mode/"><u>Tackling Taskbar Absence During Full-Screen Mode</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977709995-turbulence-intensity-enhances-fuel-air-mixing-but-must-be-balanced-to-avoid-knocking/"><u>Turbulence Intensity Enhances Fuel-Air Mixing but Must Be Balanced to Avoid Knocking</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728470758000-rawntfs/"><u>データの損失無くて安全 - RAWからNTFSへのファイルシステム変更ガイド</u></a></li>
 </ul></div>
 

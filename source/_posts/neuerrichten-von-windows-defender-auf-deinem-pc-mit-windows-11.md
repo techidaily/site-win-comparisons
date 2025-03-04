@@ -1,7 +1,7 @@
 ---
 title: Neuerrichten Von Windows Defender Auf Deinem PC Mit Windows 11
-date: 2025-01-13T23:01:31.891Z
-updated: 2025-01-17T20:51:29.629Z
+date: 2025-02-25T23:23:41.647Z
+updated: 2025-03-03T23:00:09.314Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f05d7d6cac870afba65fb3588.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -65,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -97,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,19 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-guide-to-adding-audio-files-to-inshots-library/"><u>[New] 2024 Approved Guide to Adding Audio Files to InShot's Library</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-7-precision-shooter-classics/"><u>[New] 2024 Approved Top 7 Precision Shooter Classics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-comprehensively-understanding-youtubes-aspect-ratio-ecosystem-for-2024/"><u>[New] Comprehensively Understanding YouTube's Aspect Ratio Ecosystem for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[Updated] 2024 Approved Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/boost-your-network-speed-with-yl-softwares-strategic-guidance/"><u>Boost Your Network Speed with YL Software's Strategic Guidance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-to-safely-monitor-your-cryptocurrency-funds-personal-data-protection-by-yl-computings-address-checker/"><u>How to Safely Monitor Your Cryptocurrency Funds: Personal Data Protection by YL Computing's Address Checker</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-to-troubleshoot-a-non-functional-gpu-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Non-Functional GPU: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/predator-mini-by-holy-stone-hs170-an-economical-choice-for-hobbyist-drone-enthusiasts-reviewed/"><u>Predator Mini by Holy Stone (HS170): An Economical Choice for Hobbyist Drone Enthusiasts Reviewed!</u></a></li>
-<li><a href="https://windows11.techidaily.com/signs-of-trouble-is-factory-reset-right-for-your-pc/"><u>Signs of Trouble: Is Factory Reset Right for Your PC</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-adjusting-audio-preferences-with-yl-computings-sound-control-panel/"><u>Step-by-Step Guide: Adjusting Audio Preferences with YL Computing's Sound Control Panel</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/top-strategies-for-effectively-resolving-hardware-issues-insights-from-yl-computing/"><u>Top Strategies for Effectively Resolving Hardware Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-your-personalbusiness-youtube-mobile-hub/"><u>[New] 2024 Approved Crafting Your Personal/Business YouTube Mobile Hub</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-keep-up-the-snapstreak-game/"><u>[Updated] How To Keep Up the Snapstreak Game</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>[Updated] In 2024, Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-pros-picks-top-10-spotify-recording-applications/"><u>2024 Approved Pro's Picks Top 10 Spotify Recording Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/authenticate-ai-created-texts-with-these-4-powerful-detection-utilities-tailored-for-educators-and-managers/"><u>Authenticate AI-Created Texts with These 4 Powerful Detection Utilities, Tailored for Educators and Managers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/come-effettuare-il-passaggio-dei-file-da-hard-disk-a-solid-state-drive-in-windows-11/"><u>Come Effettuare Il Passaggio Dei File Da Hard Disk a Solid State Drive in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-6-free-video-watermark-software/"><u>New Top 6 Free Video Watermark Software</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ohne-datenverlust-wie-man-mbr-in-ein-gpt-system-konvertiert-professionelle-ersteinrichtung-von-datentragern/"><u>Ohne Datenverlust: Wie Man MBR in Ein GPT-System Konvertiert - Professionelle Ersteinrichtung Von Datenträgern</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/prosperity-through-streaming-a-youtube-money-blueprint-for-2024/"><u>Prosperity Through Streaming A YouTube Money Blueprint for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/protect-your-privacy-expert-tips-for-finding-and-deleting-spyware-on-android-phones-using-malwarefox/"><u>Protect Your Privacy: Expert Tips for Finding and Deleting Spyware on Android Phones Using MalwareFox</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/solving-the-problem-of-missing-files-in-your-google-drive/"><u>Solving the Problem of Missing Files in Your Google Drive</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/top-ranking-samsung-datenubertragungssoftware-fur-microsoft-windows-7-8-10-and-11/"><u>Top-Ranking Samsung Datenübertragungssoftware Für Microsoft Windows (7, 8, 10 & 11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-doesnt-respond-to-unauthorized-tweaks/"><u>Why AI Doesn't Respond to Unauthorized Tweaks</u></a></li>
 </ul></div>
 

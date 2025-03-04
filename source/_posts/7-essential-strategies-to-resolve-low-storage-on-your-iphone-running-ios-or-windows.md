@@ -1,7 +1,7 @@
 ---
 title: 7 Essential Strategies to Resolve Low Storage on Your iPhone Running iOS or Windows
-date: 2025-01-15T00:06:10.974Z
-updated: 2025-01-17T17:34:42.052Z
+date: 2025-03-03T03:40:36.522Z
+updated: 2025-03-03T16:43:27.884Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9d841af5f5ee6bd2b62676ef.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -92,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-macsnap-gallery-builder/"><u>[Updated] MacSnap Gallery Builder</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-transformative-techniques-for-zipping-into-subtitle-files/"><u>[Updated] Transformative Techniques for Zipping Into Subtitle Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-resize-photos-on-an-iphone/"><u>2024 Approved How to Resize Photos on an iPhone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/can-you-rely-on-windows-defender-for-robust-antivirus-security-exploring-facts-with-yl-software/"><u>Can You Rely on Windows Defender for Robust Antivirus Security - Exploring Facts with YL Software</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/choosing-the-right-format-how-to-safely-export-powerpoint-files-with-yls-guide/"><u>Choosing the Right Format: How to Safely Export PowerPoint Files with YL's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-digital-ghost-gamers-guide/"><u>Deciphering the Digital Ghost: Gamer's Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-the-m3-macbook-pro-insights-into-its-features-pricing-strategy-and-launch-forecasts/"><u>Deciphering the M3 MacBook Pro: Insights Into Its Features, Pricing Strategy, and Launch Forecasts</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/diy-laptop-maintenance-replacing-the-hard-drive-easily-yl-software-expert-advice/"><u>DIY Laptop Maintenance: Replacing the Hard Drive Easily – YL Software Expert Advice</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/effective-strategies-for-avoiding-hardware-breakdowns-in-windows-systems-tips-from-yl-software-experts/"><u>Effective Strategies for Avoiding Hardware Breakdowns in Windows Systems - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hacking-the-problem-preventing-recurring-crashes-of-new-world-on-your-personal-computer/"><u>Hacking the Problem: Preventing Recurring Crashes of 'New World' On Your Personal Computer</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-to-fix-a-laptop-when-the-display-turns-black-expert-tips-from-yl-software-experts/"><u>How to Fix a Laptop When the Display Turns Black – Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro-for-2024/"><u>Inside the Drone An In-Depth Review of DJI Phantom 3 Pro for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/secure-strategies-for-safe-crypto-investments-expert-tips-from-yl-computings-top-analysts/"><u>Secure Strategies for Safe Crypto Investments: Expert Tips From YL Computing's Top Analysts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nsiders-guide-to-online-video-affiliates/"><u>The Insider’s Guide to Online Video Affiliates</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/the-ultimate-tutorial-for-administering-executable-files-via-control-panel-insights-from-yl-software-experts/"><u>The Ultimate Tutorial for Administering Executable Files via Control Panel – Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-how-to-fix-the-error-when-installing-your-graphics-card-driver-tips-from-yl-computing/"><u>Troubleshooting: How to Fix the 'Error' When Installing Your Graphics Card Driver - Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-understanding-and-curating-instagram-story-segments-with-ease-for-2024/"><u>[Updated] Understanding and Curating Instagram Story Segments with Ease for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac-for-2024/"><u>[Updated] Your Path to Perfect Captures The Complete Guide to Netflix on Mac for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/6-eficaces-tacticas-para-resolver-el-fallo-de-inicio-en-windows-11/"><u>6 Eficaces Tácticas Para Resolver El Fallo De Inicio en Windows 11</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728489748739-windows/"><u>効率的なレシピ：リアルタイムWindows</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-resoudre-le-probleme-de-lhistorique-des-fichiers-non-fonctionnel-sur-windows-11-4-methodes/"><u>Comment Résoudre Le Problème De L'historique Des Fichiers Non Fonctionnel Sur Windows 11 ? (4 Méthodes)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-optimal-performance-with-logitechs-k400plus-wireless-duo-drivers/"><u>Download Now: Optimal Performance with Logitech's K400+ Wireless Duo Drivers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/exploring-the-expansion-of-aomeis-oem-program-and-rebranding-efforts-with-onekey-recovery-software/"><u>Exploring the Expansion of AOMEI's OEM Program and Rebranding Efforts with OneKey Recovery Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/la-cle-pour-une-transition-sans-encombre-vers-le-grand-pouvoir-des-disques-durs-version-gratuite/"><u>La Clé Pour Une Transition Sans Encombre Vers Le Grand Pouvoir Des Disques Durs - Version Gratuite</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premium-panzoid-structure-packs/"><u>Premium Panzoid Structure Packs</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/reparatur-von-usb-ordnern-ausfuhrbaren-dateien-umgewandelt-virusentfernung-und-sicherung/"><u>Reparatur Von USB-Ordnern Ausführbaren Dateien Umgewandelt - Virusentfernung Und Sicherung</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-g2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from G2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-window-woes-tackling-dead-screens-effectively/"><u>Winning Strategies Against Window Woes: Tackling Dead Screens Effectively</u></a></li>
 </ul></div>
 

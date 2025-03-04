@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Rescatar Archivos Borrados en Una Memoria USB Con CMD - Método Sencillo
-date: 2025-01-12T23:49:37.953Z
-updated: 2025-01-17T20:50:44.002Z
+date: 2025-02-26T20:25:38.162Z
+updated: 2025-03-03T23:15:24.261Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03454856c62819bb5612b0808.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -47,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -68,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -92,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,19 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-pocketsized-skies-budget-large-data-haven/"><u>[New] In 2024, PocketSized Skies - Budget Large Data Haven</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-money-machine-of-youtube-videos-for-creators-for-2024/"><u>[Updated] Unlocking the Money Machine of YouTube Videos for Creators for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1-updating-device-drivers-via-windows-control-panel-a-step-by-step-guide-techease/"><u>1. Updating Device Drivers via Windows Control Panel: A Step-by-Step Guide - TechEase</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/assessing-the-true-eco-friendliness-of-electric-cars-a-deep-dive/"><u>Assessing the True Eco-Friendliness of Electric Cars: A Deep Dive</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-free-dvd-conversion-apps-a-comprehensive-review-for-film-lovers/"><u>Best Free DVD Conversion Apps : A Comprehensive Review for Film Lovers</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/comparing-fresh-start-methods-factory-reset-or-reinstall-windows/"><u>Comparing Fresh Start Methods: Factory Reset or Reinstall Windows?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020), Apples New iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/protect-your-digital-assets-critical-security-practices-when-employing-a-crypto-balance-tracker-with-guidance-from-yl-software/"><u>Protect Your Digital Assets: Critical Security Practices When Employing a Crypto Balance Tracker with Guidance From YL Software</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/setting-preferred-applications-to-open-files-on-windows-a-complete-guide/"><u>Setting Preferred Applications to Open Files on Windows - A Complete Guide</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/showcase-your-style-with-mallory-james-mahoney-visuals-and-custom-desktops-high-quality-designs-from-yl-software-solutions/"><u>Showcase Your Style with Mallory James Mahoney Visuals and Custom Desktops - High-Quality Designs From YL Software Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-tascam-cd-200bt-a-masterful-music-production-device-with-ble/"><u>Unveiling the Tascam CD-200BT: A Masterful Music Production Device with BLE</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/windows-11-data-protection-tips-and-solutions-safeguard-your-system-with-expert-advice/"><u>Windows 11 Data Protection Tips & Solutions – Safeguard Your System with Expert Advice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-highlight-heroics-in-samsung-phone-games/"><u>[New] 2024 Approved Highlight Heroics in Samsung Phone Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-snap-confirmation-essentials-unveiled-for-2024/"><u>[New] Insta Snap Confirmation Essentials Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ensuring-profitability-in-youtube-with-correct-monetization-for-2024/"><u>[Updated] Ensuring Profitability in YouTube with Correct Monetization for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-win-top-rated-rapid-image-zoomer/"><u>[Updated] Win Top-Rated Rapid Image Zoomer</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/emeditor-pro-v700-release-candidate-the-ultimate-text-editor-software/"><u>EmEditor Pro v7.00 Release Candidate: The Ultimate Text Editor Software</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/emeditor-powerful-text-editing-software-with-advanced-features/"><u>EmEditor: Powerful Text Editing Software with Advanced Features</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/emeditor-the-ideal-text-editor-configuration-for-salesforcecoms-apex-code/"><u>EmEditor: The Ideal Text Editor Configuration for Salesforce.com's Apex Code</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-11-best-streaming-audio-recorders/"><u>In 2024, 11 Best Streaming Audio Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/low-light-iphone-luminary-techniques/"><u>Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/master-text-manipulation-in-emeditor-using-findreplace-expression-tools/"><u>Master Text Manipulation in EmEditor Using Find/Replace Expression Tools</u></a></li>
 </ul></div>
 
